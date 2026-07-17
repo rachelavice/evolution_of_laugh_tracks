@@ -1,0 +1,133 @@
+.scrolly-container {
+    position: relative;
+    margin-bottom: 1.2em;
+}
+
+.sticky-thing {
+    position: -webkit-sticky;
+    position: sticky;
+    left: 50%;
+    right: 50%;
+    width: 50%;
+    margin: 0;
+    z-index: 0;
+    top: 0;
+    height: 100vh;
+    /* Center everything inside */
+    justify-content: center;
+    /* margin-top: -100vh; */
+}
+
+.sticky-thing > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;  
+} 
+
+#scrolly-timeline .sticky-thing {
+  width: 100%;
+  left: 0;
+  right: 0;
+}
+
+#scrolly-linecharts .sticky-thing {
+  width: 100%;
+  left: 0;
+  right: 0;
+}
+
+.video-container {
+    position: sticky;
+    top: 0;
+    z-index: -1;
+}
+
+.scrolly-container video {
+    position: absolute;
+    top: 0;
+    height: auto;
+    width: 100%;
+}
+
+.sticky-thing iframe {
+    position: absolute;
+    top: 0;
+    max-width: 100%;
+    min-height: 100vh;
+}
+
+.steps-container {
+    transform: translate3d(0,0,0);
+    position: relative;
+    padding: 0;
+    z-index: 10;
+    max-width: 35rem;
+    margin: 0;
+    padding-left: 50%;
+    padding-bottom: 4em;
+}
+
+.step {
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50svh;
+    transform: translate(0px, 0px);
+}
+
+.step p {
+    text-align: left;
+}
+
+.step p:last-child {
+    padding: 0;
+}
+
+.step > * {
+    width: 40vw;
+    margin-left: 1.3em;
+    margin-right: 0;
+    text-align: center;
+    padding: 1.2em !important;
+    background-color: #FFF9F0;
+    stroke-width: 2px;
+    -webkit-stroke-color: #1D1E2C;
+    
+}
+
+.sticky-thing > canvas {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover;
+    display: block;  
+}
+
+/* When it's less than 700 pixels wide, do normal scrollytelling */
+
+@media only screen and (min-width: 700px) {
+    .scrolly-container.side-by-side {
+        display: flex;
+    }
+
+    .scrolly-container.side-by-side>div {
+        flex-basis: 0;
+        flex-grow: 1;
+        flex-shrink: 1;
+        padding: 0.75em;
+    }
+
+    .scrolly-container.side-by-side .scrolly-overlay {
+        margin-top: 70vh;
+        order: 0;
+        /* Change these to adjust sizing options */
+        min-width: 15rem;
+        max-width: 20rem;
+    }
+
+    .scrolly-container.side-by-side .sticky-thing {
+        order: 1;
+        flex-grow: 2;
+    }
+}

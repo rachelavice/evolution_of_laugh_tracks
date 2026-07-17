@@ -1,0 +1,909 @@
+,year,rank,title,network,rating,camera,laugh_track_category
+0,1950,1,Texaco Star Theater,NBC,61.6,Unknown,studio_audience
+1,1950,4,Your Show of Shows,NBC,42.6,Multi-camera,studio_audience
+2,1950,5,The Colgate Comedy Hour,NBC,42.0,Multi-camera,studio_audience
+3,1950,8,Arthur Godfrey's Talent Scouts,CBS,40.6,Multi-camera,studio_audience
+4,1950,10,Mama,CBS,39.7,Unknown,no_added_laughter
+5,1950,15,The Toast of the Town,CBS,36.5,Unknown,studio_audience
+6,1950,16,The Aldrich Family,NBC,36.1,Unknown,studio_audience
+7,1950,17,You Bet Your Life,NBC,36.0,Unknown,studio_audience
+8,1950,19,Big Town,CBS,35.6,Unknown,no_added_laughter
+9,1950,28,The Ken Murray Show,CBS,32.1,Unknown,studio_audience
+10,1950,30,Lux Video Theatre,CBS,31.5,Unknown,no_added_laughter
+11,1951,1,Arthur Godfrey's Talent Scouts,CBS,53.8,Multi-camera,studio_audience
+12,1951,2,Texaco Star Theater,NBC,52.0,Unknown,studio_audience
+13,1951,3,I Love Lucy,CBS,50.9,Multi-camera,studio_audience
+14,1951,4,The Red Skelton Show,NBC,50.2,Unknown,studio_audience
+15,1951,5,The Colgate Comedy Hour,NBC,45.3,Multi-camera,studio_audience
+16,1951,8,Your Show of Shows,NBC,43.0,Multi-camera,studio_audience
+17,1951,9,The Jack Benny Show,CBS,42.8,Unknown,studio_audience
+18,1951,10,You Bet Your Life,NBC,42.1,Unknown,studio_audience
+19,1951,11,Mama,CBS,41.3,Unknown,no_added_laughter
+20,1951,13,Amos 'n' Andy,CBS,38.9,Unknown,canned_laugh_track
+21,1951,15,Big Town,CBS,38.5,Unknown,no_added_laughter
+22,1951,20,All Star Revue,NBC,36.3,Unknown,studio_audience
+23,1952,1,I Love Lucy,CBS,67.3,Multi-camera,studio_audience
+24,1952,2,Arthur Godfrey's Talent Scouts,CBS,54.7,Multi-camera,studio_audience
+25,1952,5,Texaco Star Theater,NBC,46.7,Unknown,studio_audience
+26,1952,7,The Colgate Comedy Hour,NBC,44.3,Multi-camera,studio_audience
+27,1952,9,You Bet Your Life,NBC,41.6,Unknown,studio_audience
+28,1952,11,The Red Buttons Show,CBS,40.2,Unknown,studio_audience
+29,1952,12,The Jack Benny Show,CBS,39.0,Unknown,studio_audience
+30,1952,16,The Life of Riley,NBC,37.4,Unknown,canned_laugh_track
+31,1952,18,Mama,CBS,37.0,Unknown,no_added_laughter
+32,1952,19,Your Show of Shows,NBC,36.0,Multi-camera,studio_audience
+33,1952,20,What's My Line?,CBS,35.3,Unknown,studio_audience
+34,1952,22,Our Miss Brooks,CBS,35.0,Multi-camera,studio_audience
+35,1952,25,Amos 'n' Andy,CBS,34.4,Unknown,canned_laugh_track
+36,1952,26,All Star Revue,NBC,34.3,Unknown,studio_audience
+37,1952,28,The Red Skelton Show,NBC,33.7,Unknown,studio_audience
+38,1953,1,I Love Lucy,CBS,58.8,Multi-camera,studio_audience
+39,1953,3,Arthur Godfrey's Talent Scouts,CBS,43.6,Multi-camera,studio_audience
+40,1953,3,You Bet Your Life,NBC,43.6,Unknown,studio_audience
+41,1953,5,The Milton Berle Show,NBC,40.2,Unknown,studio_audience
+42,1953,8,The Jackie Gleason Show,CBS,38.1,Multi-camera,studio_audience
+43,1953,10,The Colgate Comedy Hour,NBC,36.2,Multi-camera,studio_audience
+44,1953,12,The Red Buttons Show,CBS,35.3,Unknown,studio_audience
+45,1953,13,The Life of Riley,NBC,35.0,Unknown,studio_audience
+46,1953,14,Our Miss Brooks,CBS,34.2,Multi-camera,studio_audience
+47,1953,16,The Jack Benny Show,CBS,33.3,Unknown,studio_audience
+48,1953,17,The Toast of the Town,CBS,33.0,Unknown,studio_audience
+49,1953,20,The George Burns and Gracie Allen Show,CBS,32.4,Unknown,studio_audience
+50,1953,24,Private Secretary,CBS,30.3,Unknown,canned_laugh_track
+51,1953,25,I Married Joan,NBC,30.2,Unknown,canned_laugh_track
+52,1953,25,Mama,CBS,30.2,Unknown,no_added_laughter
+53,1953,27,General Electric Theater,CBS,29.9,Unknown,no_added_laughter
+54,1953,28,What's My Line?,CBS,29.6,Unknown,studio_audience
+55,1954,1,I Love Lucy,CBS,49.3,Multi-camera,studio_audience
+56,1954,2,The Jackie Gleason Show,CBS,42.4,Multi-camera,studio_audience
+57,1954,4,You Bet Your Life,NBC,41.0,Unknown,studio_audience
+58,1954,5,The Toast of the Town,CBS,39.6,Unknown,studio_audience
+59,1954,7,The Jack Benny Show,CBS,38.3,Unknown,studio_audience
+60,1954,8,The George Gobel Show,NBC,35.2,Unknown,studio_audience
+61,1954,10,December Bride,CBS,34.7,Unknown,studio_audience
+62,1954,11,The Buick-Berle Show,NBC,34.6,Unknown,studio_audience
+63,1954,17,General Electric Theater,CBS,32.6,Unknown,no_added_laughter
+64,1954,18,Arthur Godfrey's Talent Scouts,CBS,32.5,Multi-camera,studio_audience
+65,1954,19,Private Secretary,CBS,32.2,Unknown,canned_laugh_track
+66,1954,21,The Life of Riley,NBC,30.9,Unknown,canned_laugh_track
+67,1954,24,Topper,CBS,29.4,Unknown,canned_laugh_track
+68,1954,26,The George Burns and Gracie Allen Show,CBS,29.0,Unknown,canned_laugh_track
+69,1954,27,The Colgate Comedy Hour,NBC,28.0,Multi-camera,studio_audience
+70,1954,28,The Loretta Young Show,NBC,27.7,Single-camera,no_added_laughter
+71,1954,29,My Little Margie,NBC,27.1,Multi-camera,canned_laugh_track
+72,1955,2,I Love Lucy,CBS,46.1,Multi-camera,studio_audience
+73,1955,3,The Ed Sullivan Show,CBS,39.5,Multi-camera,studio_audience
+74,1955,5,The Jack Benny Show,CBS,37.2,Unknown,studio_audience
+75,1955,6,December Bride,CBS,37.0,Unknown,studio_audience
+76,1955,7,You Bet Your Life,NBC,35.4,Unknown,studio_audience
+77,1955,11,General Electric Theater,CBS,32.9,Unknown,no_added_laughter
+78,1955,12,Private Secretary,CBS,32.4,Unknown,canned_laugh_track
+79,1955,14,The Red Skelton Show,CBS,32.3,Unknown,studio_audience
+80,1955,15,The George Gobel Show,NBC,31.9,Unknown,studio_audience
+81,1955,16,Arthur Godfrey's Talent Scouts,CBS,31.1,Multi-camera,studio_audience
+82,1955,17,The Lineup,CBS,30.8,Unknown,no_added_laughter
+83,1955,19,The Honeymooners,CBS,30.2,Multi-camera,studio_audience
+84,1955,21,The Life of Riley,NBC,29.9,Unknown,canned_laugh_track
+85,1955,25,Lux Video Theatre,NBC,28.9,Unknown,no_added_laughter
+86,1955,27,The George Burns and Gracie Allen Show,CBS,28.4,Unknown,canned_laugh_track
+87,1955,30,The Phil Silvers Show,CBS,28.1,Unknown,studio_audience
+88,1956,1,I Love Lucy,CBS,43.7,Multi-camera,studio_audience
+89,1956,2,The Ed Sullivan Show,CBS,38.4,Multi-camera,studio_audience
+90,1956,3,General Electric Theater,CBS,36.9,Unknown,no_added_laughter
+91,1956,5,December Bride,CBS,35.2,Unknown,studio_audience
+92,1956,10,The Jack Benny Show,CBS,32.3,Unknown,studio_audience
+93,1956,12,Arthur Godfrey's Talent Scouts,CBS,31.9,Multi-camera,studio_audience
+94,1956,15,The Red Skelton Show,CBS,31.4,Unknown,studio_audience
+95,1956,15,The Lineup,CBS,31.4,Unknown,no_added_laughter
+96,1956,17,You Bet Your Life,NBC,31.1,Unknown,studio_audience
+97,1956,22,The Phil Silvers Show,CBS,29.7,Unknown,canned_laugh_track
+98,1956,24,Lassie,CBS,29.5,Unknown,no_added_laughter
+99,1956,25,Private Secretary,CBS,29.0,Unknown,canned_laugh_track
+100,1956,26,What's My Line?,CBS,28.9,Unknown,studio_audience
+101,1956,28,The George Burns and Gracie Allen Show,CBS,27.8,Unknown,canned_laugh_track
+102,1956,29,The Jackie Gleason Show,CBS,27.6,Multi-camera,studio_audience
+103,1957,2,The Danny Thomas Show,CBS,35.3,Unknown,studio_audience
+104,1957,7,General Electric Theater,CBS,31.5,Unknown,no_added_laughter
+105,1957,9,December Bride,CBS,30.7,Unknown,canned_laugh_track
+106,1957,10,You Bet Your Life,NBC,30.6,Unknown,studio_audience
+107,1957,15,The Red Skelton Show,CBS,28.9,Unknown,studio_audience
+108,1957,16,The Gale Storm Show,CBS,28.8,Unknown,canned_laugh_track
+109,1957,18,The Lineup,CBS,28.4,Unknown,no_added_laughter
+110,1957,22,Lassie,CBS,27.8,Unknown,no_added_laughter
+111,1957,23,Father Knows Best,NBC,27.7,Unknown,canned_laugh_track
+112,1957,27,The Ed Sullivan Show,CBS,27.3,Multi-camera,studio_audience
+113,1957,28,The Jack Benny Show,CBS,27.1,Unknown,studio_audience
+114,1957,30,The Loretta Young Show,NBC,26.6,Single-camera,no_added_laughter
+115,1957,30,The Real McCoys,ABC,26.6,Single-camera,canned_laugh_track
+116,1958,5,The Danny Thomas Show,CBS,32.8,Unknown,studio_audience
+117,1958,6,Maverick,ABC,30.4,Unknown,no_added_laughter
+118,1958,8,The Real McCoys,ABC,30.1,Single-camera,canned_laugh_track
+119,1958,12,The Red Skelton Show,CBS,28.5,Unknown,studio_audience
+120,1958,13,Father Knows Best,CBS,28.3,Unknown,canned_laugh_track
+121,1958,21,The Ann Sothern Show,CBS,27.0,Unknown,studio_audience
+122,1958,25,General Electric Theater,CBS,26.7,Unknown,no_added_laughter
+123,1959,4,The Danny Thomas Show,CBS,31.1,Unknown,studio_audience
+124,1959,5,The Red Skelton Show,CBS,30.8,Unknown,studio_audience
+125,1959,6,Father Knows Best,CBS,29.7,Unknown,canned_laugh_track
+126,1959,11,The Real McCoys,ABC,28.2,Single-camera,canned_laugh_track
+127,1959,12,The Ed Sullivan Show,CBS,28.0,Multi-camera,studio_audience
+128,1959,16,Dennis the Menace,CBS,26.0,Unknown,canned_laugh_track
+129,1959,19,Maverick,ABC,25.2,Unknown,no_added_laughter
+130,1959,21,General Electric Theater,CBS,24.4,Unknown,no_added_laughter
+131,1959,24,The Ann Sothern Show,CBS,24.2,Unknown,studio_audience
+132,1959,26,You Bet Your Life,NBC,24.0,Unknown,studio_audience
+133,1959,27,What's My Line?,CBS,23.9,Unknown,studio_audience
+134,1959,29,Lassie,CBS,23.1,Unknown,no_added_laughter
+135,1960,4,The Andy Griffith Show,CBS,27.8,Single-camera,canned_laugh_track
+136,1960,5,The Real McCoys,ABC,27.7,Single-camera,canned_laugh_track
+137,1960,10,The Jack Benny Show,CBS,26.2,Unknown,studio_audience
+138,1960,11,Dennis the Menace,CBS,26.1,Unknown,canned_laugh_track
+139,1960,12,The Danny Thomas Show,CBS,25.9,Unknown,studio_audience
+140,1960,13,My Three Sons,ABC,25.8,Unknown,canned_laugh_track
+141,1960,15,The Ed Sullivan Show,CBS,25.0,Multi-camera,studio_audience
+142,1960,18,The Flintstones,ABC,24.3,Unknown,canned_laugh_track
+143,1960,19,The Red Skelton Show,CBS,24.0,Unknown,studio_audience
+144,1960,20,General Electric Theater,CBS,23.4,Unknown,no_added_laughter
+145,1960,22,What's My Line?,CBS,23.1,Unknown,studio_audience
+146,1960,23,The Many Loves of Dobie Gillis,CBS,23.0,Single-camera,canned_laugh_track
+147,1961,4,Hazel,NBC,27.7,Unknown,canned_laugh_track
+148,1961,6,The Red Skelton Show,CBS,27.1,Unknown,studio_audience
+149,1961,7,The Andy Griffith Show,CBS,27.0,Single-camera,canned_laugh_track
+150,1961,8,The Danny Thomas Show,CBS,26.1,Unknown,studio_audience
+151,1961,11,My Three Sons,ABC,24.7,Unknown,canned_laugh_track
+152,1961,14,The Real McCoys,ABC,24.2,Single-camera,canned_laugh_track
+153,1961,15,Lassie,CBS,24.0,Unknown,no_added_laughter
+154,1961,17,Dennis the Menace,CBS,23.8,Unknown,canned_laugh_track
+155,1961,19,The Ed Sullivan Show,CBS,23.5,Multi-camera,studio_audience
+156,1961,20,"Car 54, Where Are You?",NBC,23.2,Single-camera,canned_laugh_track
+157,1961,21,The Flintstones,ABC,22.9,Unknown,canned_laugh_track
+158,1961,21,The Many Loves of Dobie Gillis,CBS,22.9,Single-camera,canned_laugh_track
+159,1961,24,The Joey Bishop Show,NBC,22.6,Unknown,studio_audience
+160,1961,30,The Donna Reed Show,ABC,21.9,Single-camera,canned_laugh_track
+161,1962,1,The Beverly Hillbillies,CBS,36.0,Single-camera,canned_laugh_track
+162,1962,2,The Red Skelton Show,CBS,31.1,Unknown,studio_audience
+163,1962,4,The Lucy Show,CBS,29.8,Multi-camera,studio_audience
+164,1962,6,The Andy Griffith Show,CBS,29.7,Single-camera,canned_laugh_track
+165,1962,7,The Danny Thomas Show,CBS,28.7,Unknown,studio_audience
+166,1962,9,The Dick Van Dyke Show,CBS,27.1,Unknown,studio_audience
+167,1962,11,The Jack Benny Show,CBS,26.2,Unknown,studio_audience
+168,1962,13,What's My Line?,CBS,25.5,Unknown,studio_audience
+169,1962,14,The Ed Sullivan Show,CBS,25.3,Multi-camera,studio_audience
+170,1962,15,Hazel,NBC,25.1,Unknown,canned_laugh_track
+171,1962,17,The Jackie Gleason Show,CBS,24.1,Multi-camera,studio_audience
+172,1962,19,To Tell the Truth,CBS,23.3,Unknown,studio_audience
+173,1962,19,Lassie,CBS,23.3,Unknown,no_added_laughter
+174,1962,28,My Three Sons,ABC,21.0,Unknown,canned_laugh_track
+175,1962,30,The Flintstones,ABC,20.5,Unknown,canned_laugh_track
+176,1963,1,The Beverly Hillbillies,CBS,39.1,Single-camera,canned_laugh_track
+177,1963,3,The Dick Van Dyke Show,CBS,33.3,Unknown,studio_audience
+178,1963,4,Petticoat Junction,CBS,30.3,Single-camera,canned_laugh_track
+179,1963,5,The Andy Griffith Show,CBS,29.4,Single-camera,canned_laugh_track
+180,1963,6,The Lucy Show,CBS,28.1,Multi-camera,studio_audience
+181,1963,8,The Ed Sullivan Show,CBS,27.5,Multi-camera,studio_audience
+182,1963,9,The Danny Thomas Show,CBS,26.7,Unknown,studio_audience
+183,1963,10,My Favorite Martian,CBS,26.3,Single-camera,canned_laugh_track
+184,1963,11,The Red Skelton Show,CBS,25.7,Unknown,studio_audience
+185,1963,12,Lassie,CBS,25.0,Unknown,no_added_laughter
+186,1963,12,The Jack Benny Show,CBS,25.0,Unknown,studio_audience
+187,1963,15,The Jackie Gleason Show,CBS,24.6,Multi-camera,studio_audience
+188,1963,16,The Donna Reed Show,ABC,24.5,Single-camera,canned_laugh_track
+189,1963,18,The Patty Duke Show,ABC,23.9,Single-camera,canned_laugh_track
+190,1963,22,Hazel,NBC,22.8,Unknown,canned_laugh_track
+191,1963,22,McHale's Navy,ABC,22.8,Single-camera,canned_laugh_track
+192,1963,24,To Tell the Truth,CBS,22.6,Unknown,studio_audience
+193,1963,24,What's My Line?,CBS,22.6,Unknown,studio_audience
+194,1963,27,My Three Sons,ABC,21.9,Unknown,canned_laugh_track
+195,1963,29,The Adventures of Ozzie and Harriet,ABC,21.6,Single-camera,canned_laugh_track
+196,1963,30,The Danny Kaye Show,CBS,21.5,Multi-camera,studio_audience
+197,1963,30,Bob Hope Presents the Chrysler Theatre,NBC,21.5,Unknown,no_added_laughter
+198,1964,2,Bewitched,ABC,31.0,Single-camera,canned_laugh_track
+199,1964,3,"Gomer Pyle, U.S.M.C.",CBS,30.7,Unknown,canned_laugh_track
+200,1964,4,The Andy Griffith Show,CBS,28.3,Single-camera,canned_laugh_track
+201,1964,6,The Red Skelton Hour,CBS,27.4,Unknown,studio_audience
+202,1964,7,The Dick Van Dyke Show,CBS,27.1,Unknown,studio_audience
+203,1964,8,The Lucy Show,CBS,26.6,Multi-camera,studio_audience
+204,1964,12,The Beverly Hillbillies,CBS,25.6,Single-camera,canned_laugh_track
+205,1964,13,My Three Sons,ABC,25.5,Unknown,canned_laugh_track
+206,1964,15,Petticoat Junction,CBS,25.2,Single-camera,canned_laugh_track
+207,1964,15,The Ed Sullivan Show,CBS,25.2,Multi-camera,studio_audience
+208,1964,17,Lassie,CBS,25.1,Unknown,no_added_laughter
+209,1964,18,The Munsters,CBS,24.7,Single-camera,canned_laugh_track
+210,1964,18,Gilligan's Island,CBS,24.7,Single-camera,canned_laugh_track
+211,1964,21,The Jackie Gleason Show,CBS,24.4,Multi-camera,studio_audience
+212,1964,23,The Addams Family,ABC,23.9,Unknown,canned_laugh_track
+213,1964,24,My Favorite Martian,CBS,23.7,Single-camera,canned_laugh_track
+214,1964,28,The Patty Duke Show,ABC,22.4,Single-camera,canned_laugh_track
+215,1964,29,McHale's Navy,ABC,22.3,Single-camera,canned_laugh_track
+216,1965,2,"Gomer Pyle, U.S.M.C.",CBS,27.8,Unknown,canned_laugh_track
+217,1965,3,The Lucy Show,CBS,27.7,Multi-camera,studio_audience
+218,1965,4,The Red Skelton Hour,CBS,27.6,Unknown,studio_audience
+219,1965,6,The Andy Griffith Show,CBS,26.9,Single-camera,canned_laugh_track
+220,1965,7,Bewitched,ABC,25.9,Single-camera,canned_laugh_track
+221,1965,7,The Beverly Hillbillies,CBS,25.9,Single-camera,canned_laugh_track
+222,1965,9,Hogan's Heroes,CBS,24.9,Unknown,canned_laugh_track
+223,1965,11,Green Acres,CBS,24.6,Single-camera,canned_laugh_track
+224,1965,12,Get Smart,NBC,24.5,single-camera,canned_laugh_track
+225,1965,13,The Man from U.N.C.L.E.,NBC,24.0,Single-camera,no_added_laughter
+226,1965,15,My Three Sons,CBS,23.8,Unknown,canned_laugh_track
+227,1965,16,The Dick Van Dyke Show,CBS,23.6,Unknown,studio_audience
+228,1965,17,The Ed Sullivan Show,CBS,23.2,Multi-camera,studio_audience
+229,1965,21,Petticoat Junction,CBS,22.3,Single-camera,canned_laugh_track
+230,1965,22,Gilligan's Island,CBS,22.1,Single-camera,canned_laugh_track
+231,1965,23,The Wild Wild West,CBS,22.0,Unknown,no_added_laughter
+232,1965,23,The Jackie Gleason Show,CBS,22.0,Multi-camera,studio_audience
+233,1965,27,Lassie,CBS,21.8,Unknown,no_added_laughter
+234,1965,27,I Dream of Jeannie,NBC,21.8,Single-camera,canned_laugh_track
+235,1966,2,The Red Skelton Hour,CBS,28.2,Unknown,studio_audience
+236,1966,3,The Andy Griffith Show,CBS,27.4,Single-camera,canned_laugh_track
+237,1966,4,The Lucy Show,CBS,26.2,Multi-camera,studio_audience
+238,1966,5,The Jackie Gleason Show,CBS,25.3,Multi-camera,studio_audience
+239,1966,6,Green Acres,CBS,24.6,Single-camera,canned_laugh_track
+240,1966,7,Bewitched,ABC,23.4,Single-camera,canned_laugh_track
+241,1966,7,The Beverly Hillbillies,CBS,23.4,Single-camera,canned_laugh_track
+242,1966,10,"Gomer Pyle, U.S.M.C.",CBS,22.8,Unknown,canned_laugh_track
+243,1966,10,The Ed Sullivan Show,CBS,22.8,Multi-camera,studio_audience
+244,1966,14,The Dean Martin Show,NBC,22.6,Unknown,canned_laugh_track
+245,1966,14,Family Affair,CBS,22.6,Unknown,canned_laugh_track
+246,1966,16,The Smothers Brothers Comedy Hour,CBS,22.2,Multi-camera,studio_audience
+247,1966,17,Hogan's Heroes,CBS,21.8,Unknown,canned_laugh_track
+248,1966,22,Get Smart,NBC,21.0,single-camera,canned_laugh_track
+249,1966,23,Petticoat Junction,CBS,20.9,Single-camera,canned_laugh_track
+250,1966,26,Bob Hope Presents the Chrysler Theatre,NBC,20.7,Unknown,no_added_laughter
+251,1966,29,My Three Sons,CBS,20.2,Unknown,canned_laugh_track
+252,1967,1,The Andy Griffith Show,CBS,27.6,Single-camera,canned_laugh_track
+253,1967,2,The Lucy Show,CBS,27.0,Multi-camera,studio_audience
+254,1967,3,"Gomer Pyle, U.S.M.C.",CBS,25.6,Unknown,canned_laugh_track
+255,1967,4,Family Affair,CBS,25.5,Unknown,canned_laugh_track
+256,1967,7,The Red Skelton Show,CBS,25.3,Unknown,studio_audience
+257,1967,8,The Dean Martin Show,NBC,24.8,Unknown,studio_audience
+258,1967,9,The Jackie Gleason Show,CBS,23.9,Multi-camera,studio_audience
+259,1967,11,Bewitched,ABC,23.5,Single-camera,canned_laugh_track
+260,1967,12,The Beverly Hillbillies,CBS,23.3,Single-camera,canned_laugh_track
+261,1967,13,The Ed Sullivan Show,CBS,23.2,Multi-camera,studio_audience
+262,1967,15,Green Acres,CBS,22.8,Single-camera,canned_laugh_track
+263,1967,18,The Smothers Brothers Comedy Hour,CBS,21.7,Multi-camera,studio_audience
+264,1967,21,Rowan & Martin's Laugh-In,NBC,21.3,Unknown,canned_laugh_track
+265,1967,24,My Three Sons,CBS,20.8,Unknown,canned_laugh_track
+266,1967,27,The Carol Burnett Show,CBS,20.1,Multi-camera,studio_audience
+267,1967,30,Lassie,CBS,19.9,Unknown,no_added_laughter
+268,1968,1,Rowan & Martin's Laugh-In,NBC,31.8,Unknown,canned_laugh_track
+269,1968,2,"Gomer Pyle, U.S.M.C.",CBS,27.2,Unknown,canned_laugh_track
+270,1968,4,Mayberry R.F.D.,CBS,25.4,Unknown,canned_laugh_track
+271,1968,5,Family Affair,CBS,25.2,Unknown,canned_laugh_track
+272,1968,8,The Dean Martin Show,NBC,24.1,Unknown,canned_laugh_track
+273,1968,9,Here's Lucy,CBS,23.8,Unknown,studio_audience
+274,1968,10,The Beverly Hillbillies,CBS,23.5,Single-camera,canned_laugh_track
+275,1968,11,Bewitched,ABC,23.3,Single-camera,canned_laugh_track
+276,1968,11,The Red Skelton Hour,CBS,23.3,Unknown,studio_audience
+277,1968,14,My Three Sons,CBS,22.8,Unknown,canned_laugh_track
+278,1968,15,The Glen Campbell Goodtime Hour,CBS,22.5,Unknown,studio_audience
+279,1968,19,Green Acres,CBS,21.6,Single-camera,canned_laugh_track
+280,1968,23,The Ed Sullivan Show,CBS,21.2,Multi-camera,studio_audience
+281,1968,24,The Carol Burnett Show,CBS,20.8,Multi-camera,studio_audience
+282,1968,24,The Jackie Gleason Show,CBS,20.8,Multi-camera,studio_audience
+283,1968,26,I Dream of Jeannie,NBC,20.7,Single-camera,canned_laugh_track
+284,1968,27,The Smothers Brothers Comedy Hour,CBS,20.6,Multi-camera,studio_audience
+285,1968,30,The Doris Day Show,CBS,20.4,Unknown,canned_laugh_track
+286,1969,1,Rowan & Martin's Laugh-In,NBC,26.3,Unknown,canned_laugh_track
+287,1969,4,Mayberry R.F.D.,CBS,24.4,Unknown,canned_laugh_track
+288,1969,5,Family Affair,CBS,24.2,Unknown,canned_laugh_track
+289,1969,6,Here's Lucy,CBS,23.9,Unknown,studio_audience
+290,1969,7,The Red Skelton Hour,CBS,23.8,Unknown,studio_audience
+291,1969,10,The Doris Day Show,CBS,22.8,Unknown,canned_laugh_track
+292,1969,11,The Bill Cosby Show,NBC,22.7,Unknown,no_added_laughter
+293,1969,13,The Carol Burnett Show,CBS,22.1,Multi-camera,studio_audience
+294,1969,14,The Dean Martin Show,NBC,21.9,Unknown,studio_audience
+295,1969,15,My Three Sons,CBS,21.8,Unknown,canned_laugh_track
+296,1969,18,The Beverly Hillbillies,CBS,21.7,Single-camera,canned_laugh_track
+297,1969,20,The Glen Campbell Goodtime Hour,CBS,21.0,Unknown,studio_audience
+298,1969,20,Hee Haw,CBS,21.0,Unknown,canned_laugh_track
+299,1969,24,Bewitched,ABC,20.6,Single-camera,canned_laugh_track
+300,1969,27,The Ed Sullivan Show,CBS,20.3,Multi-camera,studio_audience
+301,1970,2,The Flip Wilson Show,NBC,27.9,Unknown,studio_audience
+302,1970,3,Here's Lucy,CBS,26.1,Unknown,studio_audience
+303,1970,13,Rowan & Martin's Laugh-In,NBC,22.4,Unknown,canned_laugh_track
+304,1970,15,Mayberry R.F.D.,CBS,22.3,Unknown,canned_laugh_track
+305,1970,16,Hee Haw,CBS,21.4,Unknown,canned_laugh_track
+306,1970,19,My Three Sons,CBS,20.8,Unknown,canned_laugh_track
+307,1970,20,The Doris Day Show,CBS,20.7,Unknown,canned_laugh_track
+308,1970,21,The Smith Family,ABC,20.6,Unknown,canned_laugh_track
+309,1970,22,The Mary Tyler Moore Show,CBS,20.3,Unknown,studio_audience
+310,1970,24,The Dean Martin Show,NBC,20.0,Unknown,studio_audience
+311,1970,25,The Carol Burnett Show,CBS,19.8,Multi-camera,studio_audience
+312,1970,25,The Partridge Family,ABC,19.8,Single-camera,canned_laugh_track
+313,1971,1,All in the Family,CBS,34.0,Unknown,studio_audience
+314,1971,2,The Flip Wilson Show,NBC,28.2,Unknown,studio_audience
+315,1971,6,Sanford and Son,NBC,25.2,Multi-camera,studio_audience
+316,1971,10,The Mary Tyler Moore Show,CBS,23.7,Unknown,studio_audience
+317,1971,10,Here's Lucy,CBS,23.7,Unknown,studio_audience
+318,1971,16,The Partridge Family,ABC,22.6,Single-camera,canned_laugh_track
+319,1971,18,The New Dick Van Dyke Show,CBS,22.2,Unknown,studio_audience
+320,1971,22,Rowan & Martin's Laugh-In,NBC,21.4,Unknown,canned_laugh_track
+321,1971,23,The Carol Burnett Show,CBS,21.2,Multi-camera,studio_audience
+322,1971,23,The Doris Day Show,CBS,21.2,Unknown,canned_laugh_track
+323,1971,27,The Sonny & Cher Comedy Hour,CBS,20.2,Unknown,studio_audience
+324,1971,28,Room 222,ABC,19.8,Single-camera,no_added_laughter
+325,1972,1,All in the Family,CBS,33.3,Unknown,studio_audience
+326,1972,2,Sanford and Son,NBC,27.6,Multi-camera,studio_audience
+327,1972,4,Maude,CBS,24.7,Unknown,studio_audience
+328,1972,5,Bridget Loves Bernie,CBS,24.2,Unknown,canned_laugh_track
+329,1972,7,The Mary Tyler Moore Show,CBS,23.6,Unknown,studio_audience
+330,1972,12,The Flip Wilson Show,NBC,23.1,Unknown,studio_audience
+331,1972,15,Here's Lucy,CBS,21.9,Unknown,studio_audience
+332,1972,16,The Bob Newhart Show,CBS,21.8,Multi-camera,studio_audience
+333,1972,19,The Partridge Family,ABC,20.6,Single-camera,canned_laugh_track
+334,1972,22,The Carol Burnett Show,CBS,20.3,Multi-camera,studio_audience
+335,1972,25,The Little People,NBC,19.9,Unknown,canned_laugh_track
+336,1973,1,All in the Family,CBS,31.2,Unknown,studio_audience
+337,1973,3,Sanford and Son,NBC,27.5,Multi-camera,studio_audience
+338,1973,4,M*A*S*H,CBS,25.7,Unknown,canned_laugh_track
+339,1973,6,Maude,CBS,23.5,Unknown,studio_audience
+340,1973,7,The Sonny & Cher Comedy Hour,CBS,23.3,Unknown,studio_audience
+341,1973,9,The Mary Tyler Moore Show,CBS,23.1,Unknown,studio_audience
+342,1973,12,The Bob Newhart Show,CBS,22.3,Multi-camera,studio_audience
+343,1973,16,Happy Days,ABC,21.5,Single-camera,studio_audience
+344,1973,17,Good Times,CBS,21.4,Multi-camera,studio_audience
+345,1973,27,The Carol Burnett Show,CBS,20.1,Multi-camera,studio_audience
+346,1973,29,Here's Lucy,CBS,20.0,Unknown,studio_audience
+347,1974,1,All in the Family,CBS,30.2,Unknown,studio_audience
+348,1974,2,Sanford and Son,NBC,29.6,Multi-camera,studio_audience
+349,1974,3,Chico and the Man,NBC,28.5,Multi-camera,studio_audience
+350,1974,4,The Jeffersons,CBS,27.6,Multi-camera,studio_audience
+351,1974,5,M*A*S*H,CBS,27.4,Unknown,canned_laugh_track
+352,1974,6,Rhoda,CBS,26.3,Unknown,studio_audience
+353,1974,7,Good Times,CBS,25.8,Multi-camera,studio_audience
+354,1974,9,Maude,CBS,24.9,Unknown,studio_audience
+355,1974,11,The Mary Tyler Moore Show,CBS,24.0,Unknown,studio_audience
+356,1974,17,The Bob Newhart Show,CBS,22.4,Multi-camera,studio_audience
+357,1974,22,Cher,CBS,21.3,Unknown,studio_audience
+358,1974,25,Paul Sand in Friends and Lovers,CBS,20.7,Unknown,studio_audience
+359,1974,25,Tony Orlando & Dawn,CBS,20.7,Unknown,studio_audience
+360,1974,29,The Carol Burnett Show,CBS,20.4,Multi-camera,studio_audience
+361,1975,1,All in the Family,CBS,30.1,Unknown,studio_audience
+362,1975,3,Laverne & Shirley,ABC,27.5,Unknown,studio_audience
+363,1975,4,Maude,CBS,25.0,Unknown,studio_audience
+364,1975,6,Phyllis,CBS,24.5,Unknown,studio_audience
+365,1975,7,Sanford and Son,NBC,24.4,Multi-camera,studio_audience
+366,1975,7,Rhoda,CBS,24.4,Unknown,studio_audience
+367,1975,11,Happy Days,ABC,23.9,Single-camera,studio_audience
+368,1975,12,One Day at a Time,CBS,23.1,Unknown,studio_audience
+369,1975,14,M*A*S*H,CBS,22.9,Unknown,canned_laugh_track
+370,1975,16,Good Heavens,ABC,22.5,Unknown,canned_laugh_track
+371,1975,18,"Welcome Back, Kotter",ABC,22.1,Unknown,studio_audience
+372,1975,19,The Mary Tyler Moore Show,CBS,21.9,Unknown,studio_audience
+373,1975,21,The Jeffersons,CBS,21.5,Multi-camera,studio_audience
+374,1975,23,The Sonny & Cher Show,CBS,21.2,Unknown,studio_audience
+375,1975,24,Good Times,CBS,21.0,Multi-camera,studio_audience
+376,1975,25,Chico and the Man,NBC,20.8,Multi-camera,studio_audience
+377,1975,26,The Bob Newhart Show,CBS,20.7,Multi-camera,studio_audience
+378,1975,26,Donny & Marie,ABC,20.7,Unknown,studio_audience
+379,1975,29,The Carol Burnett Show,CBS,20.5,Multi-camera,studio_audience
+380,1976,1,Happy Days,ABC,31.5,Multi-camera,studio_audience
+381,1976,2,Laverne & Shirley,ABC,30.9,Unknown,studio_audience
+382,1976,4,M*A*S*H,CBS,25.9,Unknown,canned_laugh_track
+383,1976,8,One Day at a Time,CBS,23.4,Unknown,studio_audience
+384,1976,11,Three's Company,ABC,23.1,Multi-camera,studio_audience
+385,1976,12,All in the Family,CBS,22.9,Unknown,studio_audience
+386,1976,13,"Welcome Back, Kotter",ABC,22.7,Unknown,studio_audience
+387,1976,17,Barney Miller,ABC,22.2,Multi-camera,studio_audience
+388,1976,23,Eight Is Enough,ABC,21.1,Single-camera,no_added_laughter
+389,1976,24,The Jeffersons,CBS,21.0,Multi-camera,studio_audience
+390,1976,25,What's Happening!!,ABC,20.9,Unknown,studio_audience
+391,1976,26,Good Times,CBS,20.5,Multi-camera,studio_audience
+392,1976,27,Sanford and Son,NBC,20.3,Multi-camera,studio_audience
+393,1976,29,The Tony Randall Show,ABC,20.1,Unknown,studio_audience
+394,1976,30,Alice,CBS,20.0,Unknown,studio_audience
+395,1977,1,Laverne & Shirley,ABC,31.6,Unknown,studio_audience
+396,1977,2,Happy Days,ABC,31.4,Multi-camera,studio_audience
+397,1977,3,Three's Company,ABC,28.3,Multi-camera,studio_audience
+398,1977,4,All in the Family,CBS,24.4,Unknown,studio_audience
+399,1977,8,Alice,CBS,23.2,Unknown,studio_audience
+400,1977,8,M*A*S*H,CBS,23.2,Unknown,canned_laugh_track
+401,1977,10,One Day at a Time,CBS,23.0,Unknown,studio_audience
+402,1977,12,Eight Is Enough,ABC,22.2,Single-camera,no_added_laughter
+403,1977,13,Soap,ABC,22.0,Unknown,studio_audience
+404,1977,14,The Love Boat,ABC,21.9,Unknown,canned_laugh_track
+405,1977,17,Fantasy Island,ABC,21.4,Unknown,no_added_laughter
+406,1977,17,Barney Miller,ABC,21.4,Multi-camera,studio_audience
+407,1977,25,Rhoda,CBS,20.1,Unknown,studio_audience
+408,1977,26,Family,ABC,19.9,Unknown,no_added_laughter
+409,1977,26,"Welcome Back, Kotter",ABC,19.9,Unknown,studio_audience
+410,1977,29,On Our Own,CBS,19.6,Unknown,studio_audience
+411,1978,1,Laverne & Shirley,ABC,30.5,Unknown,studio_audience
+412,1978,2,Three's Company,ABC,30.3,Multi-camera,studio_audience
+413,1978,3,Mork & Mindy,ABC,28.6,Multi-camera,studio_audience
+414,1978,3,Happy Days,ABC,28.6,Multi-camera,studio_audience
+415,1978,5,Angie,ABC,26.7,Unknown,studio_audience
+416,1978,7,M*A*S*H,CBS,25.4,Unknown,canned_laugh_track
+417,1978,8,The Ropers,ABC,25.2,Unknown,studio_audience
+418,1978,9,All in the Family,CBS,24.9,Unknown,studio_audience
+419,1978,9,Taxi,ABC,24.9,Unknown,studio_audience
+420,1978,11,Eight Is Enough,ABC,24.8,Single-camera,no_added_laughter
+421,1978,13,Alice,CBS,23.2,Unknown,studio_audience
+422,1978,15,Barney Miller,ABC,22.6,Multi-camera,studio_audience
+423,1978,17,The Love Boat,ABC,22.1,Unknown,no_added_laughter
+424,1978,18,One Day at a Time,CBS,21.6,Unknown,studio_audience
+425,1978,19,Soap,ABC,21.3,Unknown,studio_audience
+426,1978,20,The Dukes of Hazzard,CBS,21.0,Single-camera,no_added_laughter
+427,1978,22,Fantasy Island,ABC,20.8,Unknown,no_added_laughter
+428,1978,26,Stockard Channing in Just Friends,CBS,20.2,Unknown,studio_audience
+429,1978,27,Diff'rent Strokes,NBC,19.9,Multi-camera,studio_audience
+430,1978,28,What's Happening!!,ABC,19.8,Unknown,studio_audience
+431,1978,30,Lou Grant,CBS,19.7,Unknown,no_added_laughter
+432,1979,2,Three's Company,ABC,26.3,Multi-camera,studio_audience
+433,1979,4,Alice,CBS,25.3,Unknown,studio_audience
+434,1979,4,M*A*S*H,CBS,25.3,Unknown,canned_laugh_track
+435,1979,7,Flo,CBS,24.4,Unknown,studio_audience
+436,1979,8,The Jeffersons,CBS,24.3,Multi-camera,studio_audience
+437,1979,9,The Dukes of Hazzard,CBS,24.1,Single-camera,no_added_laughter
+438,1979,10,One Day at a Time,CBS,23.0,Unknown,studio_audience
+439,1979,11,Archie Bunker's Place,CBS,22.9,Unknown,studio_audience
+440,1979,12,Eight Is Enough,ABC,22.8,Single-camera,no_added_laughter
+441,1979,13,Taxi,ABC,22.4,Unknown,studio_audience
+442,1979,14,House Calls,CBS,22.1,Unknown,studio_audience
+443,1979,17,Happy Days,ABC,21.7,Multi-camera,studio_audience
+444,1979,20,Barney Miller,ABC,20.9,Multi-camera,studio_audience
+445,1979,22,WKRP in Cincinnati,CBS,20.7,Multi-camera,studio_audience
+446,1979,23,Benson,ABC,20.6,Unknown,studio_audience
+447,1979,23,The Love Boat,ABC,20.6,Unknown,canned_laugh_track
+448,1979,25,Soap,ABC,20.5,Unknown,studio_audience
+449,1979,26,Diff'rent Strokes,NBC,20.3,Multi-camera,studio_audience
+450,1979,27,Mork & Mindy,ABC,20.2,Multi-camera,studio_audience
+451,1979,28,Fantasy Island,ABC,20.1,Unknown,no_added_laughter
+452,1979,29,Tenspeed and Brown Shoe,ABC,20.0,Unknown,no_added_laughter
+453,1980,2,The Dukes of Hazzard,CBS,27.3,Single-camera,no_added_laughter
+454,1980,4,M*A*S*H,CBS,25.7,Unknown,canned_laugh_track
+455,1980,5,The Love Boat,ABC,24.3,Unknown,no_added_laughter
+456,1980,6,The Jeffersons,CBS,23.5,Multi-camera,studio_audience
+457,1980,7,Alice,CBS,22.9,Unknown,studio_audience
+458,1980,8,House Calls,CBS,22.4,Unknown,studio_audience
+459,1980,8,Three's Company,ABC,22.4,Multi-camera,studio_audience
+460,1980,11,One Day at a Time,CBS,22.0,Unknown,studio_audience
+461,1980,13,Archie Bunker's Place,CBS,21.4,Unknown,studio_audience
+462,1980,15,Happy Days,ABC,20.8,Multi-camera,studio_audience
+463,1980,15,Too Close for Comfort,ABC,20.8,Multi-camera,studio_audience
+464,1980,17,Fantasy Island,ABC,20.7,Unknown,no_added_laughter
+465,1980,17,Diff'rent Strokes,NBC,20.7,Multi-camera,studio_audience
+466,1980,20,Laverne & Shirley,ABC,20.6,Unknown,studio_audience
+467,1980,26,The Facts of Life,NBC,19.3,Unknown,studio_audience
+468,1980,27,Lou Grant,CBS,19.1,Unknown,no_added_laughter
+469,1981,3,The Jeffersons,CBS,23.4,Multi-camera,studio_audience
+470,1981,4,Three's Company,ABC,23.3,Multi-camera,studio_audience
+471,1981,5,Alice,CBS,22.7,Unknown,studio_audience
+472,1981,6,The Dukes of Hazzard,CBS,22.6,Single-camera,no_added_laughter
+473,1981,6,Too Close for Comfort,ABC,22.6,Multi-camera,studio_audience
+474,1981,9,M*A*S*H,CBS,22.3,Unknown,canned_laugh_track
+475,1981,10,One Day at a Time,CBS,22.0,Unknown,studio_audience
+476,1981,12,Archie Bunker's Place,CBS,21.6,Unknown,studio_audience
+477,1981,14,The Love Boat,ABC,21.2,Unknown,canned_laugh_track
+478,1981,18,Happy Days,ABC,20.6,Multi-camera,studio_audience
+479,1981,20,Laverne & Shirley,ABC,19.9,Unknown,studio_audience
+480,1981,23,House Calls,CBS,19.2,Unknown,studio_audience
+481,1981,24,The Facts of Life,NBC,19.1,Unknown,studio_audience
+482,1981,30,Fantasy Island,ABC,18.3,Unknown,no_added_laughter
+483,1982,3,M*A*S*H,CBS,22.6,Unknown,canned_laugh_track
+484,1982,6,Three's Company,ABC,21.2,Multi-camera,studio_audience
+485,1982,9,The Love Boat,ABC,20.3,Unknown,canned_laugh_track
+486,1982,10,The A-Team,NBC,20.1,Unknown,no_added_laughter
+487,1982,12,The Jeffersons,CBS,20.0,Multi-camera,studio_audience
+488,1982,12,Newhart,CBS,20.0,Unknown,studio_audience
+489,1982,15,9 to 5,ABC,19.3,Unknown,studio_audience
+490,1982,16,One Day at a Time,CBS,19.1,Unknown,studio_audience
+491,1982,22,Archie Bunker's Place,CBS,18.3,Unknown,studio_audience
+492,1982,25,Laverne & Shirley,ABC,17.8,Unknown,studio_audience
+493,1982,28,Happy Days,ABC,17.4,Multi-camera,studio_audience
+494,1982,30,The Dukes of Hazzard,CBS,17.2,Single-camera,no_added_laughter
+495,1983,4,The A-Team,NBC,24.0,Unknown,no_added_laughter
+496,1983,8,Kate & Allie,CBS,21.9,Multi-camera,studio_audience
+497,1983,14,TV's Bloopers & Practical Jokes,NBC,20.3,Unknown,studio_audience
+498,1983,15,AfterMASH,CBS,20.1,Single-camera,canned_laugh_track
+499,1983,17,The Love Boat,ABC,19.0,Unknown,no_added_laughter
+500,1983,19,The Jeffersons,CBS,18.6,Multi-camera,studio_audience
+501,1983,23,Newhart,CBS,18.0,Unknown,studio_audience
+502,1983,24,The Facts of Life,NBC,17.3,Unknown,studio_audience
+503,1983,25,Webster,ABC,17.2,Unknown,studio_audience
+504,1983,25,Alice,CBS,17.2,Unknown,studio_audience
+505,1984,3,The Cosby Show,NBC,24.2,Multi-camera,studio_audience
+506,1984,5,Family Ties,NBC,22.1,Multi-camera,studio_audience
+507,1984,6,The A-Team,NBC,21.9,Unknown,no_added_laughter
+508,1984,10,Crazy Like a Fox,CBS,19.9,Unknown,no_added_laughter
+509,1984,12,Cheers,NBC,19.7,Multi-camera,studio_audience
+510,1984,16,Newhart,CBS,18.4,Unknown,studio_audience
+511,1984,17,Kate & Allie,CBS,18.3,Multi-camera,studio_audience
+512,1984,20,Night Court,NBC,17.6,Multi-camera,studio_audience
+513,1984,22,TV's Bloopers & Practical Jokes,NBC,17.1,Unknown,studio_audience
+514,1984,25,Remington Steele,NBC,17.0,Unknown,no_added_laughter
+515,1984,25,Webster,ABC,17.0,Unknown,studio_audience
+516,1985,1,The Cosby Show,NBC,33.7,Multi-camera,studio_audience
+517,1985,2,Family Ties,NBC,30.0,Multi-camera,studio_audience
+518,1985,5,Cheers,NBC,23.7,Multi-camera,studio_audience
+519,1985,7,The Golden Girls,NBC,21.8,Multi-camera,studio_audience
+520,1985,10,Who's the Boss?,ABC,21.1,Multi-camera,studio_audience
+521,1985,11,Night Court,NBC,20.9,Multi-camera,studio_audience
+522,1985,14,Kate & Allie,CBS,20.0,Multi-camera,studio_audience
+523,1985,16,Newhart,CBS,19.6,Unknown,studio_audience
+524,1985,17,Growing Pains,ABC,19.5,Multi-camera,studio_audience
+525,1985,19,You Again?,NBC,19.2,Multi-camera,studio_audience
+526,1985,20,227,NBC,18.8,Unknown,studio_audience
+527,1985,24,Moonlighting,ABC,18.1,Unknown,no_added_laughter
+528,1985,24,Valerie,NBC,18.1,Unknown,studio_audience
+529,1985,27,The Facts of Life,NBC,17.7,Unknown,studio_audience
+530,1985,30,The A-Team,NBC,16.9,Unknown,no_added_laughter
+531,1986,1,The Cosby Show,NBC,34.9,Multi-camera,studio_audience
+532,1986,2,Family Ties,NBC,32.7,Multi-camera,studio_audience
+533,1986,3,Cheers,NBC,27.2,Multi-camera,studio_audience
+534,1986,5,The Golden Girls,NBC,24.5,Multi-camera,studio_audience
+535,1986,7,Night Court,NBC,23.2,Multi-camera,studio_audience
+536,1986,8,Growing Pains,ABC,22.7,Multi-camera,studio_audience
+537,1986,9,Moonlighting,ABC,22.4,Unknown,no_added_laughter
+538,1986,10,Who's the Boss?,ABC,22.0,Multi-camera,studio_audience
+539,1986,12,Newhart,CBS,19.5,Unknown,studio_audience
+540,1986,13,Amen,NBC,19.4,Unknown,studio_audience
+541,1986,14,227,NBC,18.9,Unknown,studio_audience
+542,1986,19,Kate & Allie,CBS,18.3,Multi-camera,studio_audience
+543,1986,21,My Sister Sam,CBS,17.4,Multi-camera,studio_audience
+544,1986,28,ALF,NBC,16.5,Unknown,canned_laugh_track
+545,1986,28,Hunter,NBC,16.5,Unknown,no_added_laughter
+546,1986,30,Head of the Class,ABC,16.4,Multi-camera,studio_audience
+547,1987,1,The Cosby Show,NBC,27.8,Multi-camera,studio_audience
+548,1987,2,A Different World,NBC,25.0,Multi-camera,studio_audience
+549,1987,3,Cheers,NBC,23.4,Multi-camera,studio_audience
+550,1987,4,The Golden Girls,NBC,21.8,Multi-camera,studio_audience
+551,1987,5,Growing Pains,ABC,21.3,Multi-camera,studio_audience
+552,1987,6,Who's the Boss?,ABC,21.2,Multi-camera,studio_audience
+553,1987,7,Night Court,NBC,20.8,Multi-camera,studio_audience
+554,1987,10,ALF,NBC,18.8,Unknown,canned_laugh_track
+555,1987,10,The Wonder Years,ABC,18.8,Single-camera,no_added_laughter
+556,1987,12,Moonlighting,ABC,18.3,Unknown,no_added_laughter
+557,1987,15,Amen,NBC,17.5,Unknown,studio_audience
+558,1987,17,Family Ties,NBC,17.3,Multi-camera,studio_audience
+559,1987,20,My Two Dads,NBC,16.9,Multi-camera,studio_audience
+560,1987,20,Valerie's Family,NBC,16.9,Unknown,studio_audience
+561,1987,23,Head of the Class,ABC,16.7,Multi-camera,studio_audience
+562,1987,25,Newhart,CBS,16.5,Unknown,studio_audience
+563,1987,27,227,NBC,16.3,Unknown,studio_audience
+564,1987,28,Day by Day,NBC,16.2,Unknown,studio_audience
+565,1987,29,Hunter,NBC,16.1,Unknown,no_added_laughter
+566,1988,1,The Cosby Show,NBC,25.6,Multi-camera,studio_audience
+567,1988,2,Roseanne,ABC,23.8,Unknown,studio_audience
+568,1988,3,A Different World,NBC,23.0,Multi-camera,studio_audience
+569,1988,4,Cheers,NBC,22.3,Multi-camera,studio_audience
+570,1988,6,The Golden Girls,NBC,21.4,Multi-camera,studio_audience
+571,1988,7,Who's the Boss?,ABC,20.8,Multi-camera,studio_audience
+572,1988,9,Empty Nest,NBC,19.2,Multi-camera,studio_audience
+573,1988,10,Anything but Love,ABC,19.0,Multi-camera,studio_audience
+574,1988,11,Dear John,NBC,18.5,Unknown,studio_audience
+575,1988,13,Growing Pains,ABC,17.6,Multi-camera,studio_audience
+576,1988,15,ALF,NBC,17.5,Unknown,canned_laugh_track
+577,1988,19,Hunter,NBC,17.2,Unknown,no_added_laughter
+578,1988,20,Head of the Class,ABC,17.1,Multi-camera,studio_audience
+579,1988,21,Night Court,NBC,16.9,Multi-camera,studio_audience
+580,1988,22,The Hogan Family,NBC,16.3,Multi-camera,studio_audience
+581,1988,22,The Wonder Years,ABC,16.3,Single-camera,no_added_laughter
+582,1988,25,Amen,NBC,16.2,Unknown,studio_audience
+583,1989,1,The Cosby Show,NBC,23.1,Multi-camera,studio_audience
+584,1989,1,Roseanne,ABC,23.1,Unknown,studio_audience
+585,1989,3,Cheers,NBC,22.7,Multi-camera,studio_audience
+586,1989,4,A Different World,NBC,21.1,Multi-camera,studio_audience
+587,1989,5,America's Funniest Home Videos,ABC,20.9,Unknown,studio_audience
+588,1989,6,The Golden Girls,NBC,20.1,Multi-camera,studio_audience
+589,1989,8,The Wonder Years,ABC,19.2,Single-camera,no_added_laughter
+590,1989,9,Empty Nest,NBC,18.9,Multi-camera,studio_audience
+591,1989,12,Who's the Boss?,ABC,17.9,Multi-camera,studio_audience
+592,1989,13,Chicken Soup,ABC,17.7,Unknown,studio_audience
+593,1989,15,Grand,NBC,17.6,Unknown,studio_audience
+594,1989,17,Dear John,NBC,17.2,Unknown,studio_audience
+595,1989,18,Coach,ABC,17.0,Unknown,studio_audience
+596,1989,21,Growing Pains,ABC,15.4,Multi-camera,studio_audience
+597,1989,22,Full House,ABC,15.3,Multi-camera,studio_audience
+598,1989,22,Designing Women,CBS,15.3,Multi-camera,studio_audience
+599,1989,24,Hunter,NBC,14.9,Unknown,no_added_laughter
+600,1989,26,Head of the Class,ABC,14.8,Multi-camera,studio_audience
+601,1989,27,Murphy Brown,CBS,14.7,Unknown,studio_audience
+602,1989,28,The Simpsons,FOX,14.5,Unknown,no_added_laughter
+603,1989,28,Night Court,NBC,14.5,Multi-camera,studio_audience
+604,1989,28,"Doogie Howser, M.D.",ABC,14.5,Single-camera,no_added_laughter
+605,1990,1,Cheers,NBC,21.3,Multi-camera,studio_audience
+606,1990,3,Roseanne,ABC,18.1,Unknown,studio_audience
+607,1990,4,A Different World,NBC,17.5,Multi-camera,studio_audience
+608,1990,5,The Cosby Show,NBC,17.1,Multi-camera,studio_audience
+609,1990,6,Murphy Brown,CBS,16.9,Unknown,studio_audience
+610,1990,7,Empty Nest,NBC,16.7,Multi-camera,studio_audience
+611,1990,7,America's Funniest Home Videos,ABC,16.7,Unknown,studio_audience
+612,1990,10,The Golden Girls,NBC,16.5,Multi-camera,studio_audience
+613,1990,10,Designing Women,CBS,16.5,Multi-camera,studio_audience
+614,1990,13,America's Funniest People,ABC,16.3,Unknown,studio_audience
+615,1990,14,Full House,ABC,15.9,Multi-camera,studio_audience
+616,1990,15,Family Matters,ABC,15.8,Multi-camera,studio_audience
+617,1990,18,Coach,ABC,15.3,Unknown,studio_audience
+618,1990,19,Who's the Boss?,ABC,15.0,Multi-camera,studio_audience
+619,1990,21,Major Dad,CBS,14.9,Multi-camera,studio_audience
+620,1990,24,"Doogie Howser, M.D.",ABC,14.7,Single-camera,no_added_laughter
+621,1990,25,Grand,NBC,14.6,Unknown,studio_audience
+622,1990,26,Head of the Class,ABC,14.5,Multi-camera,studio_audience
+623,1990,27,Growing Pains,ABC,14.3,Multi-camera,studio_audience
+624,1990,27,Baby Talk,ABC,14.3,Unknown,studio_audience
+625,1990,27,Davis Rules,ABC,14.3,Multi-camera,studio_audience
+626,1990,30,The Wonder Years,ABC,14.2,Single-camera,no_added_laughter
+627,1991,2,Roseanne,ABC,19.9,Unknown,studio_audience
+628,1991,3,Murphy Brown,CBS,18.6,Unknown,studio_audience
+629,1991,4,Cheers,NBC,17.5,Multi-camera,studio_audience
+630,1991,4,Home Improvement,ABC,17.5,Unknown,studio_audience
+631,1991,6,Designing Women,CBS,17.3,Multi-camera,studio_audience
+632,1991,7,Full House,ABC,17.0,Multi-camera,studio_audience
+633,1991,9,Major Dad,CBS,16.8,Multi-camera,studio_audience
+634,1991,10,Coach,ABC,16.7,Unknown,studio_audience
+635,1991,15,Evening Shade,CBS,15.6,Unknown,studio_audience
+636,1991,16,Northern Exposure,CBS,15.5,Single-camera,no_added_laughter
+637,1991,17,A Different World,NBC,15.2,Multi-camera,studio_audience
+638,1991,18,The Cosby Show,NBC,15.0,Multi-camera,studio_audience
+639,1991,19,Wings,NBC,14.6,Unknown,studio_audience
+640,1991,20,America's Funniest Home Videos,ABC,14.5,Unknown,studio_audience
+641,1991,22,The Fresh Prince of Bel-Air,NBC,14.3,Multi-camera,studio_audience
+642,1991,22,Empty Nest,NBC,14.3,Multi-camera,studio_audience
+643,1991,25,America's Funniest People,ABC,13.8,Unknown,studio_audience
+644,1991,27,Family Matters,ABC,13.5,Multi-camera,studio_audience
+645,1991,30,The Golden Girls,NBC,13.1,Multi-camera,studio_audience
+646,1992,2,Roseanne,ABC,20.7,Unknown,studio_audience
+647,1992,3,Home Improvement,ABC,19.4,Unknown,studio_audience
+648,1992,4,Murphy Brown,CBS,17.9,Unknown,studio_audience
+649,1992,6,Coach,ABC,17.5,Unknown,studio_audience
+650,1992,8,Cheers,NBC,16.1,Multi-camera,studio_audience
+651,1992,10,Full House,ABC,15.8,Multi-camera,studio_audience
+652,1992,11,Northern Exposure,CBS,15.2,Single-camera,no_added_laughter
+653,1992,15,Love & War,CBS,14.7,Unknown,studio_audience
+654,1992,16,The Fresh Prince of Bel-Air,NBC,14.6,Multi-camera,studio_audience
+655,1992,16,Hangin' with Mr. Cooper,ABC,14.6,Multi-camera,studio_audience
+656,1992,19,Evening Shade,CBS,14.5,Unknown,studio_audience
+657,1992,20,Hearts Afire,CBS,14.3,Multi-camera,studio_audience
+658,1992,25,Seinfeld,NBC,13.7,Multi-camera,studio_audience
+659,1992,26,Blossom,NBC,13.5,Unknown,studio_audience
+660,1992,30,Wings,NBC,13.0,Unknown,studio_audience
+661,1992,30,The Simpsons,FOX,13.0,Unknown,no_added_laughter
+662,1993,2,Home Improvement,ABC,20.4,Unknown,studio_audience
+663,1993,3,Seinfeld,NBC,19.4,Multi-camera,studio_audience
+664,1993,4,Roseanne,ABC,19.1,Unknown,studio_audience
+665,1993,5,Grace Under Fire,ABC,17.7,Multi-camera,studio_audience
+666,1993,6,Coach,ABC,17.4,Unknown,studio_audience
+667,1993,7,Frasier,NBC,16.8,Multi-camera,studio_audience
+668,1993,9,Murphy Brown,CBS,16.3,Unknown,studio_audience
+669,1993,12,Thunder Alley,ABC,15.9,Unknown,studio_audience
+670,1993,13,Love & War,CBS,14.5,Unknown,studio_audience
+671,1993,14,Northern Exposure,CBS,14.4,Single-camera,no_added_laughter
+672,1993,16,Full House,ABC,14.2,Multi-camera,studio_audience
+673,1993,18,Wings,NBC,13.9,Unknown,studio_audience
+674,1993,21,Dave's World,CBS,13.7,Unknown,studio_audience
+675,1993,21,The Fresh Prince of Bel-Air,NBC,13.7,Multi-camera,studio_audience
+676,1993,27,Phenom,ABC,13.2,Unknown,studio_audience
+677,1993,27,Evening Shade,CBS,13.2,Unknown,studio_audience
+678,1993,30,Family Matters,ABC,12.6,Multi-camera,studio_audience
+679,1994,1,Seinfeld,NBC,20.6,Multi-camera,studio_audience
+680,1994,3,Home Improvement,ABC,19.5,Unknown,studio_audience
+681,1994,4,Grace Under Fire,ABC,18.6,Multi-camera,studio_audience
+682,1994,8,Friends,NBC,15.6,Multi-camera,studio_audience
+683,1994,10,Roseanne,ABC,15.5,Unknown,studio_audience
+684,1994,11,Mad About You,NBC,15.2,Multi-camera,studio_audience
+685,1994,12,Madman of the People,NBC,14.9,Multi-camera,studio_audience
+686,1994,13,Ellen,ABC,14.8,Unknown,studio_audience
+687,1994,14,Hope and Gloria,NBC,14.6,Unknown,studio_audience
+688,1994,15,Frasier,NBC,14.5,Multi-camera,studio_audience
+689,1994,16,Murphy Brown,CBS,14.1,Unknown,studio_audience
+690,1994,20,Me and the Boys,ABC,13.1,Unknown,studio_audience
+691,1994,21,Dave's World,CBS,12.9,Unknown,studio_audience
+692,1994,22,Cybill,CBS,12.8,Multi-camera,studio_audience
+693,1994,24,The Nanny,CBS,12.5,Multi-camera,studio_audience
+694,1994,25,Full House,ABC,12.4,Multi-camera,studio_audience
+695,1994,26,Wings,NBC,12.3,Unknown,studio_audience
+696,1994,29,The Martin Short Show,NBC,11.7,Unknown,studio_audience
+697,1995,2,Seinfeld,NBC,21.2,Multi-camera,studio_audience
+698,1995,3,Friends,NBC,18.7,Multi-camera,studio_audience
+699,1995,4,Caroline in the City,NBC,18.0,Multi-camera,studio_audience
+700,1995,6,The Single Guy,NBC,16.7,Multi-camera,studio_audience
+701,1995,7,Home Improvement,ABC,16.1,Unknown,studio_audience
+702,1995,8,Boston Common,NBC,15.6,Unknown,studio_audience
+703,1995,11,Frasier,NBC,13.6,Multi-camera,studio_audience
+704,1995,13,Grace Under Fire,ABC,13.2,Multi-camera,studio_audience
+705,1995,14,Coach,ABC,12.9,Unknown,studio_audience
+706,1995,16,The Nanny,CBS,12.5,Multi-camera,studio_audience
+707,1995,16,Roseanne,ABC,12.5,Unknown,studio_audience
+708,1995,18,Murphy Brown,CBS,12.3,Unknown,studio_audience
+709,1995,22,3rd Rock from the Sun,NBC,12.1,Multi-camera,studio_audience
+710,1995,24,The Naked Truth,ABC,11.4,Unknown,studio_audience
+711,1995,24,Can't Hurry Love,CBS,11.4,Multi-camera,studio_audience
+712,1995,30,The Dana Carvey Show,ABC,11.2,Multi-camera,studio_audience
+713,1996,2,Seinfeld,NBC,20.5,Multi-camera,studio_audience
+714,1996,3,Suddenly Susan,NBC,17.0,Multi-camera,studio_audience
+715,1996,4,Friends,NBC,16.8,Multi-camera,studio_audience
+716,1996,4,The Naked Truth,NBC,16.8,Unknown,studio_audience
+717,1996,6,Fired Up,NBC,16.5,Unknown,studio_audience
+718,1996,8,The Single Guy,NBC,14.1,Multi-camera,studio_audience
+719,1996,9,Home Improvement,ABC,14.0,Unknown,studio_audience
+720,1996,16,Frasier,NBC,11.8,Multi-camera,studio_audience
+721,1996,17,Spin City,ABC,11.7,Multi-camera,studio_audience
+722,1996,18,The Drew Carey Show,ABC,11.5,Unknown,studio_audience
+723,1996,21,Cosby,CBS,11.2,Unknown,studio_audience
+724,1996,23,Mad About You,NBC,11.0,Multi-camera,studio_audience
+725,1996,23,Caroline in the City,NBC,11.0,Multi-camera,studio_audience
+726,1996,27,3rd Rock from the Sun,NBC,10.8,Multi-camera,studio_audience
+727,1996,29,Ellen,ABC,10.6,Unknown,studio_audience
+728,1996,30,Cybill,CBS,10.5,Multi-camera,studio_audience
+729,1997,1,Seinfeld,NBC,21.7,Multi-camera,studio_audience
+730,1997,3,Veronica's Closet,NBC,16.6,Multi-camera,studio_audience
+731,1997,4,Friends,NBC,16.1,Multi-camera,studio_audience
+732,1997,8,Union Square,NBC,13.6,Unknown,studio_audience
+733,1997,10,Home Improvement,ABC,12.0,Unknown,studio_audience
+734,1997,10,Frasier,NBC,12.0,Multi-camera,studio_audience
+735,1997,12,Just Shoot Me!,NBC,11.9,Multi-camera,studio_audience
+736,1997,15,The Drew Carey Show,ABC,11.1,Unknown,studio_audience
+737,1997,23,Mad About You,NBC,9.7,Multi-camera,studio_audience
+738,1997,23,King of the Hill,FOX,9.7,Unknown,no_added_laughter
+739,1997,25,Cosby,CBS,9.5,Unknown,studio_audience
+740,1997,25,Dharma & Greg,ABC,9.5,Multi-camera,studio_audience
+741,1997,30,The Simpsons,FOX,9.2,Unknown,no_added_laughter
+742,1997,30,Everybody Loves Raymond,CBS,9.2,Multi-camera,studio_audience
+743,1998,2,Friends,NBC,15.7,Multi-camera,studio_audience
+744,1998,3,Frasier,NBC,15.6,Multi-camera,studio_audience
+745,1998,5,Veronica's Closet,NBC,13.7,Multi-camera,studio_audience
+746,1998,5,Jesse,NBC,13.7,Unknown,studio_audience
+747,1998,10,Home Improvement,ABC,11.0,Unknown,studio_audience
+748,1998,11,Everybody Loves Raymond,CBS,10.6,Multi-camera,studio_audience
+749,1998,14,The Drew Carey Show,ABC,9.9,Unknown,studio_audience
+750,1998,19,Becker,CBS,9.7,Unknown,studio_audience
+751,1998,23,Ally McBeal,FOX,9.6,Single-camera,no_added_laughter
+752,1998,24,Dharma & Greg,ABC,9.3,Multi-camera,studio_audience
+753,1998,25,Spin City,ABC,9.2,Multi-camera,studio_audience
+754,1999,5,Friends,NBC,14.0,Multi-camera,studio_audience
+755,1999,6,Frasier,NBC,13.6,Multi-camera,studio_audience
+756,1999,12,Everybody Loves Raymond,CBS,11.4,Multi-camera,studio_audience
+757,1999,13,Jesse,NBC,11.3,Unknown,studio_audience
+758,1999,15,Stark Raving Mad,NBC,10.7,Unknown,studio_audience
+759,1999,17,Dharma & Greg,ABC,10.5,Multi-camera,studio_audience
+760,1999,18,Becker,CBS,10.4,Unknown,studio_audience
+761,1999,21,The Drew Carey Show,ABC,9.5,Unknown,studio_audience
+762,1999,24,Spin City,ABC,9.1,Multi-camera,studio_audience
+763,1999,27,Family Law,CBS,9.0,Unknown,no_added_laughter
+764,1999,28,Malcolm in the Middle,FOX,8.9,Single-camera,no_added_laughter
+765,2000,5,Friends,NBC,12.6,Multi-camera,studio_audience
+766,2000,5,Everybody Loves Raymond,CBS,12.6,Multi-camera,studio_audience
+767,2000,14,Will & Grace,NBC,11.3,Multi-camera,studio_audience
+768,2000,16,Becker,CBS,10.9,Unknown,studio_audience
+769,2000,17,Frasier,NBC,10.7,Multi-camera,studio_audience
+770,2000,20,Just Shoot Me!,NBC,10.4,Multi-camera,studio_audience
+771,2000,22,Cursed/The Weber Show,NBC,9.7,Unknown,studio_audience
+772,2000,27,The King of Queens,CBS,8.9,Multi-camera,studio_audience
+773,2000,28,"Yes, Dear",CBS,8.7,Multi-camera,studio_audience
+774,2000,29,Family Law,CBS,8.6,Unknown,no_added_laughter
+775,2001,1,Friends,NBC,15.0,Multi-camera,studio_audience
+776,2001,4,Everybody Loves Raymond,CBS,12.8,Multi-camera,studio_audience
+777,2001,9,Will & Grace,NBC,11.0,Multi-camera,studio_audience
+778,2001,9,Leap of Faith,NBC,11.0,Unknown,no_added_laughter
+779,2001,11,Becker,CBS,10.7,Unknown,studio_audience
+780,2001,14,Frasier,NBC,9.9,Multi-camera,studio_audience
+781,2001,16,Inside Schwartz,NBC,9.8,Multi-camera,no_added_laughter
+782,2001,18,Just Shoot Me!,NBC,9.3,Multi-camera,studio_audience
+783,2001,19,The King of Queens,CBS,8.9,Multi-camera,studio_audience
+784,2001,20,"Yes, Dear",CBS,8.8,Multi-camera,studio_audience
+785,2001,25,Baby Bob,CBS,8.1,Unknown,canned_laugh_track
+786,2001,30,Family Law,CBS,7.7,Unknown,no_added_laughter
+787,2002,2,Friends,NBC,13.9,Multi-camera,studio_audience
+788,2002,7,Everybody Loves Raymond,CBS,11.9,Multi-camera,studio_audience
+789,2002,11,Will & Grace,NBC,11.0,Multi-camera,studio_audience
+790,2002,13,Scrubs,NBC,10.3,Unknown,no_added_laughter
+791,2002,19,Still Standing,CBS,9.4,Unknown,studio_audience
+792,2002,23,"Good Morning, Miami",NBC,8.7,Multi-camera,studio_audience
+793,2002,24,"Yes, Dear",CBS,8.6,Multi-camera,studio_audience
+794,2002,25,The King of Queens,CBS,8.5,Multi-camera,studio_audience
+795,2002,26,Frasier,NBC,8.4,Multi-camera,studio_audience
+796,2002,28,My Big Fat Greek Life,CBS,8.0,Multi-camera,studio_audience
+797,2003,4,Friends,NBC,13.6,Multi-camera,studio_audience
+798,2003,9,Everybody Loves Raymond,CBS,11.2,Multi-camera,studio_audience
+799,2003,13,Will & Grace,NBC,10.4,Multi-camera,studio_audience
+800,2003,14,Two and a Half Men,CBS,9.9,Multi-camera,studio_audience
+801,2003,26,Still Standing,CBS,7.7,Unknown,studio_audience
+802,2003,30,Frasier,NBC,7.3,Multi-camera,studio_audience
+803,2003,30,The King of Queens,CBS,7.3,Multi-camera,studio_audience
+804,2004,4,Desperate Housewives,ABC,14.5,Single-camera,no_added_laughter
+805,2004,9,Everybody Loves Raymond,CBS,11.2,Multi-camera,studio_audience
+806,2004,11,Two and a Half Men,CBS,10.6,Multi-camera,studio_audience
+807,2004,24,Boston Legal,ABC,8.1,Unknown,no_added_laughter
+808,2005,4,Desperate Housewives,ABC,13.8,Single-camera,no_added_laughter
+809,2005,13,Two and a Half Men,CBS,9.7,Multi-camera,studio_audience
+810,2005,25,The New Adventures of Old Christine,CBS,8.3,Multi-camera,studio_audience
+811,2005,30,Out of Practice,CBS,7.8,Multi-camera,studio_audience
+812,2006,9,Desperate Housewives,ABC,10.8,Single-camera,no_added_laughter
+813,2006,14,Two and a Half Men,CBS,9.1,Multi-camera,studio_audience
+814,2006,25,Rules of Engagement,CBS,7.8,Unknown,studio_audience
+815,2006,27,Ugly Betty,ABC,7.4,Unknown,no_added_laughter
+816,2006,30,The King of Queens,CBS,7.3,Multi-camera,studio_audience
+817,2007,6,Desperate Housewives,ABC,11.6,Single-camera,no_added_laughter
+818,2007,15,Two and a Half Men,CBS,8.5,Multi-camera,studio_audience
+819,2007,19,Samantha Who?,ABC,8.0,Single-camera,no_added_laughter
+820,2008,9,Desperate Housewives,ABC,9.9,Single-camera,no_added_laughter
+821,2008,12,Two and a Half Men,CBS,9.1,Multi-camera,studio_audience
+822,2008,24,Rules of Engagement,CBS,7.1,Unknown,studio_audience
+823,2009,8,Undercover Boss,CBS,9.8,Unknown,no_added_laughter
+824,2009,12,Two and a Half Men,CBS,8.9,Multi-camera,studio_audience
+825,2009,13,Desperate Housewives,ABC,8.8,Single-camera,no_added_laughter
+826,2009,14,The Big Bang Theory,CBS,8.5,Multi-camera,studio_audience
+827,2010,9,Body of Proof,ABC,9.0,Unknown,no_added_laughter
+828,2010,14,The Big Bang Theory,CBS,8.0,Multi-camera,studio_audience
+829,2010,16,Two and a Half Men,CBS,7.7,Multi-camera,studio_audience
+830,2010,17,Desperate Housewives,ABC,7.5,Single-camera,no_added_laughter
+831,2010,22,Harry's Law,NBC,7.3,Unknown,no_added_laughter
+832,2010,25,Undercover Boss,CBS,7.1,Unknown,no_added_laughter
+833,2010,25,Modern Family,ABC,7.1,Single-camera,no_added_laughter
+834,2010,29,Mike & Molly,CBS,6.9,Multi-camera,studio_audience
+835,2011,8,The Big Bang Theory,CBS,9.7,Multi-camera,studio_audience
+836,2011,11,Two and a Half Men,CBS,9.1,Multi-camera,studio_audience
+837,2011,15,Modern Family,ABC,8.1,Single-camera,no_added_laughter
+838,2011,25,Mike & Molly,CBS,7.2,Multi-camera,studio_audience
+839,2011,28,2 Broke Girls,CBS,7.0,Multi-camera,studio_audience
+840,2011,28,Desperate Housewives,ABC,7.0,Single-camera,no_added_laughter
+841,2012,3,The Big Bang Theory,CBS,11.6,Multi-camera,studio_audience
+842,2012,10,Two and a Half Men,CBS,8.7,Multi-camera,studio_audience
+843,2012,18,Modern Family,ABC,7.7,Single-camera,no_added_laughter
+844,2012,23,Body of Proof,ABC,7.3,Unknown,no_added_laughter
+845,2012,28,2 Broke Girls,CBS,6.8,Multi-camera,studio_audience
+846,2013,3,The Big Bang Theory,CBS,12.3,Multi-camera,studio_audience
+847,2013,18,Modern Family,ABC,7.6,Single-camera,no_added_laughter
+848,2013,24,The Millers,CBS,7.1,Multi-camera,studio_audience
+849,2013,27,Two and a Half Men,CBS,6.8,Multi-camera,studio_audience
+850,2013,28,How I Met Your Mother,CBS,6.6,Multi-camera,canned_laugh_track
+851,2013,29,Intelligence,CBS,6.5,Unknown,no_added_laughter
+852,2014,2,The Big Bang Theory,CBS,11.6,Multi-camera,studio_audience
+853,2014,4,NCIS: New Orleans,CBS,11.3,Multi-camera,no_added_laughter
+854,2014,23,Modern Family,ABC,7.5,Single-camera,no_added_laughter
+855,2014,23,Two and a Half Men,CBS,7.5,Multi-camera,studio_audience
+856,2014,25,Mom,CBS,7.3,Unknown,studio_audience
+857,2015,3,The Big Bang Theory,CBS,12.5,Multi-camera,studio_audience
+858,2015,6,NCIS: New Orleans,CBS,9.4,Multi-camera,no_added_laughter
+859,2015,19,Little Big Shots,NBC,7.2,Unknown,studio_audience
+860,2015,30,Life in Pieces,CBS,6.5,Single-camera,no_added_laughter
+861,2016,1,The Big Bang Theory,CBS,11.5,Multi-camera,studio_audience
+862,2016,4,Bull,CBS,9.6,Unknown,no_added_laughter
+863,2016,8,NCIS: New Orleans,CBS,8.5,Multi-camera,no_added_laughter
+864,2016,24,Little Big Shots,NBC,6.1,Unknown,studio_audience
+865,2016,27,Mom,CBS,5.9,Unknown,studio_audience
+866,2017,1,The Big Bang Theory,CBS,11.1,Multi-camera,studio_audience
+867,2017,4,Roseanne,ABC,10.2,Unknown,studio_audience
+868,2017,6,Young Sheldon,CBS,9.5,Single-camera,no_added_laughter
+869,2017,8,Bull,CBS,8.9,Unknown,no_added_laughter
+870,2017,11,NCIS: New Orleans,CBS,7.8,Multi-camera,no_added_laughter
+871,2017,18,Mom,CBS,6.7,Unknown,studio_audience
+872,2018,2,The Big Bang Theory,CBS,10.6,Multi-camera,studio_audience
+873,2018,4,Young Sheldon,CBS,8.7,Single-camera,no_added_laughter
+874,2018,13,Bull,CBS,7.0,Unknown,no_added_laughter
+875,2018,17,NCIS: New Orleans,CBS,6.8,Multi-camera,no_added_laughter
+876,2018,21,Mom,CBS,6.4,Unknown,studio_audience
+877,2018,27,The Conners,ABC,5.8,Multi-camera,studio_audience
+878,2018,27,God Friended Me,CBS,5.8,Unknown,no_added_laughter
+879,2019,8,Young Sheldon,CBS,11.45,Single-camera,no_added_laughter
+880,2019,13,Bull,CBS,10.61,Unknown,no_added_laughter
+881,2019,20,NCIS: New Orleans,CBS,9.58,Multi-camera,no_added_laughter
+882,2019,29,Mom,CBS,8.52,Unknown,studio_audience
+883,2020,12,Young Sheldon,CBS,9.45,Single-camera,no_added_laughter
+884,2020,16,Bull,CBS,8.59,Unknown,no_added_laughter
+885,2020,27,NCIS: New Orleans,CBS,7.22,Multi-camera,no_added_laughter
+886,2020,29,The Rookie,ABC,7.11,Unknown,no_added_laughter
+887,2021,8,Young Sheldon,CBS,9.21,Single-camera,no_added_laughter
+888,2021,13,Ghosts,CBS,8.41,Unknown,no_added_laughter
+889,2021,20,Bull,CBS,7.37,Unknown,no_added_laughter
+890,2022,4,Young Sheldon,CBS,9.28,Single-camera,no_added_laughter
+891,2022,7,Ghosts,CBS,9.08,Unknown,no_added_laughter
+892,2022,24,The Rookie,ABC,6.48,Unknown,no_added_laughter
+893,2022,25,The Neighborhood,CBS,6.45,Unknown,studio_audience
+894,2022,26,So Help Me Todd,CBS,6.37,Unknown,no_added_laughter
+895,2022,30,Bob Hearts Abishola,CBS,6.1,Multi-camera,studio_audience
+896,2023,5,Young Sheldon,CBS,9.1,Single-camera,no_added_laughter
+897,2023,10,Ghosts,CBS,8.21,Unknown,no_added_laughter
+898,2023,15,Elsbeth,CBS,7.45,Unknown,no_added_laughter
+899,2023,23,Will Trent,ABC,6.74,Unknown,no_added_laughter
+900,2023,26,So Help Me Todd,CBS,6.18,Unknown,no_added_laughter
+901,2024,5,Georgie & Mandy's First Marriage,CBS,12.1,Multi-camera,studio_audience
+902,2024,5,Ghosts,CBS,12.1,Unknown,no_added_laughter
+903,2024,8,Elsbeth,CBS,11.5,Unknown,no_added_laughter
+904,2024,9,Will Trent,ABC,11.4,Unknown,no_added_laughter
+905,2024,12,Shifting Gears,ABC,10.9,Unknown,studio_audience
+906,2024,13,The Rookie,ABC,10.8,Unknown,no_added_laughter
+907,2024,22,Abbott Elementary,ABC,8.8,Single-camera,no_added_laughter

@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Evolution of Laughter</title>
+
+    <!------ Google Fonts -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+    
+    <!------ Styles -->
+
+    <link rel="stylesheet" type="text/css" href="ai2html.css">
+    <link rel="stylesheet" type="text/css" href="scrolly-container.css">
+    <style>
+        body{
+            background-color: #FFF9F0;
+            margin:auto;
+            padding: 2em;
+            max-width: 90vw;
+            font-size: 18px;
+            font-family: 'Lora', sans-serif;
+        }
+
+        .content {
+            max-width: 50%;
+            margin: auto;
+            }
+
+        /* .closing {
+            max-height: 100vh;
+            padding-top: 20%;
+            padding-bottom: 40%;
+        } */
+
+        .intro-wrapper{
+            position: relative;
+            }
+
+        .intro {
+            position: sticky;
+            top: 0;
+            padding-top: 4em;
+            padding-bottom: 20%;
+            z-index: 0;
+            display: flex;
+            align-items: center;
+            }
+
+        .closing-wrapper {
+            position: relative;
+            height: 200vh;
+        }
+
+        .closing {
+            position: sticky;
+            top: 20%;
+            max-width: 50%;
+            margin: auto;
+        }
+
+        .byline {
+            margin-bottom: 4em;
+            }
+
+        h1 {
+            font-family: 'Fraunces', Georgia, serif;
+            font-weight: bold;
+            font-size: 7em;
+            line-height: 25%;
+            }
+
+        h2 {
+            font-family: 'Fraunces', Georgia, serif;
+            font-weight: bold;
+            font-size: 36px;
+            line-height: 42px;
+            padding-bottom: 16px;
+        }
+
+        .subhead {
+            font-family: 'Fraunces', serif;
+            font-size: 22px;
+            justify-content: center;
+            margin-bottom: 0;
+            padding-bottom: 12px;
+            color: #1D1E2C;
+            }
+                
+        a {
+            color: #A52422;
+            font-weight: bold;
+            }
+
+        footer {
+            background: #1D1E2C;
+            text-align: center;
+            font-size: 14px;
+            padding-top: 10vh;
+            padding-bottom: 5%;
+            position: relative;
+            width:100vw;
+            margin-left: calc(-50vw + 50%);
+            margin-bottom: -3em;
+            
+            }
+        
+        footer h2 {
+            color: #FFF9F0;
+            }
+
+        footer a{
+            color: #EEAC4B;
+            font-weight: bold;
+        }
+
+        .footer-p{
+            color: #FFF9F0;
+            text-align: left;
+            margin-top: 36px;
+            font-size: 16px;
+            }
+
+        #scrolly-timeline .scrolly-event {
+            position: relative; 
+            width: 100%;
+        }
+
+        .timeline-event {
+            position: absolute;
+            width: 234px;
+            }
+
+        #line-charts-container{
+            position: relative; 
+            width: 100%;  
+        }
+
+        #line-chart-canned,
+        #line-chart-studio,
+        #line-chart-silence {
+            position: relative;
+            width: 100%;
+            padding: 40px;
+        }
+
+        #beeswarm-container{
+            position: relative; 
+            width: 100%; 
+        }
+
+        .beeswarmChart {
+            position: relative;
+            background-color: #FFF9F0; /* or a slightly different shade to create contrast, e.g. #1D1E2C for a dark section break */
+            padding-top: 15vh;
+            min-height: 100vh;
+        }
+
+        #tooltip {
+            position:absolute;
+            background: #FFF9F0;
+            color:#1D1E2C;
+            border-radius: 6px;
+            pointer-events: none;
+            z-index: 1000;
+        }
+
+        .dot {
+            cursor: pointer;
+            transition: opacity 0.15s ease;
+        }
+
+        .timeline {
+            width: 100%;
+            max-width: 100vw;
+        }
+
+        .beeswarm {
+            width: 100%;
+            max-width: 100vw;
+        }
+        #timeline-axis {
+            position: relative;
+        }
+        .timeline-event {
+        opacity: 0;
+        transition: opacity 0.5s ease;
+        }
+        .timeline-event.is-visible {
+        opacity: 1;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="intro-wrapper">
+      <div class="intro">
+      <div class="content">
+        <div class="header">
+          <h1>The Evolution</h1>
+          <h1>of Laughter</h1>
+          <p class="subhead">What 75 years of broadcast television data tells us about our relationship with comedy, and laughter.</p>
+        </div>
+        <div class="byline">
+          <p>By <a href="https://www.linkedin.com/in/rachel-vice/">Rachel Vice</a></p>
+        </div>
+        <p>If you’ve ever watched a sitcom, particularly one from the United States or United Kingdom, you’ve likely encountered a laugh track. A laugh track is recorded laughter that layers on top of scenes in sitcoms, meant to cue the viewer to laugh themselves. </p>
+        <p>The convention of using a laugh track began in the early 1950s, with the invention of the “Laff Box” by a broadcast engineer at CBS, Charles Douglass. It has changed form over the decades, with the use of pre-recorded (canned) laughter falling away to recording sitcoms in front of live studio audiences.</p>
+        <p>More recently, their use has declined, but not without a few defining eras along the way.</p>
+      </div>
+    </div>
+    <!-- <div class="intro-space" style="height: 150vh;"></div> -->
+  </div>
+    <section id="scrolly-timeline" class="scrolly-container">
+        <div class="sticky-thing">
+                <div id="timeline-axis"></div>
+                <div class="timeline-event laff-box" data-event="laff-box" event-year="1951" event-position="above">
+                <div id="g-timeline_viz-laff_box-box" class="ai2html">
+                    <!-- Artboard: laff_box -->
+                    <div id="g-timeline_viz-laff_box-234" class="g-artboard" style="max-width: 234px;max-height: 191px" data-aspect-ratio="1.225" data-min-width="0">
+                        <div style="padding: 0 0 80% 0;"></div>
+                        <img id="g-timeline_viz-laff_box-234-img" class="g-timeline_viz-laff_box-img g-aiImg" alt="" loading="lazy" src="timeline_viz-laff_box.png"/>
+                        <div id="g-ai3-1" class="g-studio g-aiAbs g-aiPointText" style="top:42.2497%;margin-top:-10.7px;left:49.4722%;margin-left:-106.5px;width:213px;">
+                            <p class="timeline-callout-header">The Laff Box is Created</p>
+                        </div>
+                        <div id="g-ai3-2" class="g-studio g-aiAbs g-aiPointText" style="top:64.1595%;margin-top:-6.6px;left:49.6229%;margin-left:-21.5px;width:43px;">
+                            <p class="g-pstyle1">1955</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="timeline-event canned" data-event="canned" event-year="1964" event-position="below">
+                <div id="g-timeline_viz-canned-box" class="ai2html">
+                    <!-- Artboard: canned -->
+                    <div id="g-timeline_viz-canned" class="g-artboard" style="max-width: 234px;max-height: 189px" data-aspect-ratio="1.24" data-min-width="0">
+                        <div style="padding: 0 0 80% 0;"></div>
+                        <img id="g-timeline_viz-canned-img" class="g-timeline_viz-canned-img g-aiImg" alt="" loading="lazy" src="timeline_viz-canned.png"/>
+                        <div id="g-ai0-1" class="g-canned g-aiAbs g-aiPointText" style="top:23.8656%;margin-top:-6.6px;left:47.5051%;margin-left:-22px;width:44px;">
+                            <p class="g-pstyle0">1964</p>
+                        </div>
+                        <div id="g-ai0-2" class="g-canned g-aiAbs g-aiPointText" style="top:33.8766%;margin-top:-10.7px;left:47.6228%;margin-left:-72.5px;width:145px;">
+                            <p class="timeline-callout-header">The Beverly Hillbillies</p>
+                        </div>
+                        <div id="g-ai0-3" class="g-canned g-aiAbs g-aiPointText" style="top:43.291%;margin-top:-7.7px;left:47.6209%;margin-left:-63.5px;width:127px;">
+                            <p class="g-pstyle2">Peak of Canned Laughter</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="timeline-event groucho" data-event="groucho" event-year="1967" event-position="above">
+                <div id="g-timeline_viz-groucho-box" class="ai2html">
+                    <!-- Artboard: groucho -->
+                    <div id="g-timeline_viz-groucho-234" class="g-artboard" style="max-width: 234px;max-height: 191px" data-aspect-ratio="1.225" data-min-width="0">
+                        <div style="padding: 0 0 81.6638% 0;"></div>
+                        <img id="g-timeline_viz-groucho-234-img" class="g-timeline_viz-groucho-img g-aiImg" alt="" loading="lazy" src="timeline_viz-groucho.png"/>
+                        <div id="g-ai4-1" class="g-silence g-aiAbs" style="top:20.9322%;left:12.4494%;width:72.2222%;">
+                            <p class="g-pstyle0">&ldquo;Those phony, recorded laughs on television comedies have done more to destroy comedy than anything else.&rdquo; </p>
+                        </div>
+                        <div id="g-ai4-2" class="g-silence g-aiAbs g-aiPointText" style="top:56.3102%;margin-top:-6.6px;left:68.3391%;margin-left:-49px;width:98px;">
+                            <p class="g-pstyle1">- Groucho Marx</p>
+                        </div>
+                        <div id="g-ai4-3" class="g-studio g-aiAbs g-aiPointText" style="top:70.9627%;margin-top:-6.6px;left:49.8501%;margin-left:-21px;width:42px;">
+                            <p class="g-pstyle1">1967</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="timeline-event studio" data-event="studio" event-year="1994" event-position="above">
+                <div id="g-timeline_viz-studio_audience-box" class="ai2html">
+                    <!-- Artboard: studio_audience -->
+                    <div id="g-timeline_viz-studio_audience" class="g-artboard" style="max-width: 234px;max-height: 198px" data-aspect-ratio="1.181" data-min-width="0">
+                        <div style="padding: 0 0 84.6884% 0;"></div>
+                        <img id="g-timeline_viz-studio_audience-img" class="g-timeline_viz-studio_audience-img g-aiImg" alt="" loading="lazy" src="timeline_viz-studio_audience.png"/>
+                        <div id="g-ai1-1" class="g-studio g-aiAbs g-aiPointText" style="top:58.9067%;margin-top:-10.7px;left:49.4528%;margin-left:-45px;width:90px;">
+                            <p class="timeline-callout-header">Seinfeld</p>
+                        </div>
+                        <div id="g-ai1-2" class="g-studio g-aiAbs g-aiPointText" style="top:68.4895%;margin-top:-7.7px;left:49.4549%;margin-left:-101px;width:202px;">
+                            <p class="g-pstyle1">Live Studio Audiences Dominate</p>
+                        </div>
+                        <div id="g-ai1-3" class="g-studio g-aiAbs g-aiPointText" style="top:77.5114%;margin-top:-6.6px;left:49.531%;margin-left:-21.5px;width:43px;">
+                            <p class="g-pstyle2">1994</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="timeline-event silence" data-event="silence" event-year="2022" event-position="below">
+                <div id="g-timeline_viz-silence-box" class="ai2html">
+                    <!-- Artboard: silence -->
+                    <div id="g-timeline_viz-silence" class="g-artboard" style="max-width: 234px;max-height: 191px" data-aspect-ratio="1.225" data-min-width="0">
+                        <div style="padding: 0 0 80% 0;"></div>
+                        <img id="g-timeline_viz-silence-img" class="g-timeline_viz-silence-img g-aiImg" alt="" loading="lazy" src="timeline_viz-silence.png"/>
+                        <div id="g-ai2-1" class="g-silence g-aiAbs g-aiPointText" style="top:23.8656%;margin-top:-6.6px;left:47.5051%;margin-left:-22px;width:44px;">
+                            <p class="g-pstyle0">2022</p>
+                        </div>
+                        <div id="g-ai2-2" class="g-silence g-aiAbs g-aiPointText" style="top:33.8766%;margin-top:-10.7px;left:47.6228%;margin-left:-72.5px;width:145px;">
+                            <p class="timeline-callout-header">Young Sheldon</p>
+                        </div>
+                        <div id="g-ai2-3" class="g-silence g-aiAbs g-aiPointText" style="top:43.291%;margin-top:-7.7px;left:47.6209%;margin-left:-63.5px;width:127px;">
+                            <p class="g-pstyle2">The Rise of Silence</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="steps-container">
+                <div class="step" id="tl-step1" data-event="laff-box">
+                <p>The Laff Box was invented by a broadcast engineer at CBS, Charles Douglass, in the early 1950s.</p>
+                </div>
+                <div class="step" id="tl-step2" data-event="canned">
+                <p>After its invention, the use of canned laughter among popular broadcast television shows quickly ascended.</p>
+                </div>
+                <div class="step" id="tl-step3" data-event="groucho">
+                <p>Not long after, it fell out of public favor, as exemplified by Groucho Marx’s public condemnation of their use in a 1967 interview in the San Mateo Times</p>
+                </div>
+                <div class="step" id="tl-step4" data-event="studio">
+                    <p>Thus, a new era began. With multi-camera sitcoms at their height of popularity, laugh tracks in the form of live studio audiences dominated. For decades.</p>
+                </div>
+                <div class="step" id="tl-step5" data-event="silence">
+                <p>Recently, there has been a new era afoot. Comedies with no laughter added began their steep ascent in the past decade.</p>
+                </div>
+            </div>
+    </section>
+    
+    <section id="scrolly-linecharts" class="scrolly-container">
+        <div class="sticky-thing">
+            <div id="line-chart-main"></div>
+        </div>
+        <div class="steps-container">
+            <div class="step" id="linechart-step1" data-emphasize="canned_laugh_track">
+                <p>Canned laugh tracks peaked in 1964, and within 5 years, collapsed almost entirely.</p>
+            </div>
+            <div class="step" id="linechart-step2" data-emphasize="studio_audience">
+                <p>Studio audiences dominated television for decades, peaking in 1994, then seemingly fell off a cliff in more recent years.</p>
+            </div>
+            <div class="step" id="linechart-step3" data-emphasize="no_added_laughter">
+                <p>Comedies that have rejected the use of injected laughter altogether have surged since 2019.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="closing-wrapper">
+        <div class="closing">
+            <h2>What does it mean that we stopped laughing together?</h2>
+            <p>Over the past 75 years, there have been three distinct changes in how comedy television shows leverage laughter. From cueing us with artificial laugh tracks to a turn to "authenticity" with the use of a live studio audience to the absence of these cues altogether.</p>
+            <p>And while it's hard to say for certain what is ultimately driving these trends, it feels worth stating that the way we watch television has fundamentally changed, and with it, our relationship to comedy has changed too.</p>
+            <p>Gone are the days of my parents' generation, where friends and family congregated around a television set to watch this week's new episode of a favorite household sitcom. Over time, this routine has given way to something more insular, and a little quieter, as we have shows at our fingertips to watch in solitude.</p>
+        </div>
+</section>
+
+    <section class="beeswarmChart">
+        <div id="beeswarm-container">
+            <div id ="beeswarm"></div>
+        </div>
+    </section>
+    <div id="tooltip"></div>
+
+    <footer>
+        <div class="content">
+        <div>
+            <h2>Methodology</h2>
+            <p class="footer-p">The data for this story draws on the top 30 highest-rated U.S. television programs for each broadcast season from 1950 to 2025, as ranked by <a href="https://www.nielsen.com/about-us/about/">Nielsen Media Research</a> and compiled on <a href="https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_by_season">Wikipedia</a>.</p>
+            <p class="footer-p">Each show was matched against <a href="https://www.themoviedb.org/">The Movie Database (TMDB) data</a> to identify genre. For the purposes of this study, television programs were filtered to comedies.</p>
+            <p class="footer-p">Each comedy show was then classified into one of three categories describing its use of audience laughter. Categories included <strong style = "color: #EEAC4B;"> a canned laugh track </strong> (laughter added in post-production with no audience present), <strong style = "color: #EEAC4B;"> a studio audience </strong> (live laughter recorded and mixed in during production), or <strong style = "color: #EEAC4B;"> no added laughter</strong>.</p>
+        </div>
+            <p class="footer-p">You can find the code for this analysis <a href="">here</a>.</p>
+        </div>
+    </footer>
+        
+    </div>
+
+    <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollama/3.2.0/scrollama.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="lineChart.js"></script>
+    <script src="timeline.js"></script>
+    <script src="beeswarm.js"></script>
+
+    <script>
+    /*************
+    
+    This is the JavaScript that makes the scrolly work 
+    
+    *************/
+
+    /* 
+    This part attaches a scroll to the element with id="scrolly-images"    
+    */
+    (() => {
+    const scroller = scrollama();
+
+    scroller
+        .setup({
+        parent: document.querySelector("#scrolly-timeline"),
+        step: "#scrolly-timeline .step",
+        offset: 0.5,
+        debug: false,
+        })
+        .onStepEnter(function ({ element, index, direction }) {
+        const event = new CustomEvent("stepin", { detail: { direction: direction } });
+        element.dispatchEvent(event);
+        })
+        .onStepExit(function ({ element, index, direction }) {
+        if (direction === "up" && element.previousElementSibling) {
+            const event = new CustomEvent("stepin", { detail: { direction: direction } });
+            element.previousElementSibling.dispatchEvent(event);
+        }
+        });
+
+    window.addEventListener("resize", scroller.resize);
+    })();
+
+    d3.select("#tl-step1").on('stepin', () => showTimelineEventsUpTo("laff-box"));
+    d3.select("#tl-step2").on('stepin', () => showTimelineEventsUpTo("canned"));
+    d3.select("#tl-step3").on('stepin', () => showTimelineEventsUpTo("groucho"));
+    d3.select("#tl-step4").on('stepin', () => showTimelineEventsUpTo("studio"));
+    d3.select("#tl-step5").on('stepin', () => showTimelineEventsUpTo("silence"));
+    </script>
+
+    <script>
+    /*************
+    
+    This is the JavaScript that makes the scrolly work 
+    
+    *************/
+
+    /* 
+    This part attaches a scroll to the element with id="scrolly-images"    
+    */
+    (() => {
+    const scroller = scrollama();
+
+    scroller
+        .setup({
+        parent: document.querySelector("#scrolly-linecharts"),
+        step: "#scrolly-linecharts .step",
+        offset: 0.5,
+        debug: false,
+        })
+        .onStepEnter(function ({ element, index, direction }) {
+        const event = new CustomEvent("stepin", { detail: { direction: direction } });
+        element.dispatchEvent(event);
+        })
+        .onStepExit(function ({ element, index, direction }) {
+        if (direction === "up" && element.previousElementSibling) {
+            const event = new CustomEvent("stepin", { detail: { direction: direction } });
+            element.previousElementSibling.dispatchEvent(event);
+        }
+        });
+
+    window.addEventListener("resize", scroller.resize);
+    })();
+
+    d3.select("#linechart-step1").on('stepin', () => emphasizeLineChart("canned_laugh_track"));
+    d3.select("#linechart-step2").on('stepin', () => emphasizeLineChart("studio_audience"));
+    d3.select("#linechart-step3").on('stepin', () => emphasizeLineChart("no_added_laughter"));
+    </script>
+
+  <style>
+    /* Change this to adjust the padding between steps */
+    .step {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+    }
+  </style>
+</body>
+</html>

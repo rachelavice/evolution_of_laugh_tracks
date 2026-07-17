@@ -1,0 +1,314 @@
+.timeline-callout-header {
+	font-family: "Fraunces", serif;
+	font-weight:700;
+	font-size: 16px;
+	height:24px;
+	text-align:center;
+	color:#1D1E2C;
+}
+
+/* LAFF BOX */
+
+#g-timeline_viz-laff_box-box,
+#g-timeline_viz-laff_box-box .g-artboard {
+	margin:0 auto;
+}
+#g-timeline_viz-laff_box-box p {
+	margin:0;
+}
+#g-timeline_viz-laff_box-box .g-aiAbs {
+	position:absolute;
+}
+#g-timeline_viz-laff_box-box .g-aiImg {
+	position:absolute;
+	top:0;
+	display:block;
+	width:100% !important;
+}
+#g-timeline_viz-laff_box-box .g-aiSymbol {
+	position:absolute;
+	box-sizing:border-box;
+}
+#g-timeline_viz-laff_box-box .g-aiPointText p {
+	white-space:nowrap;
+}
+#g-timeline_viz-laff_box-234 {
+	position:relative;
+	overflow:hidden;
+}
+/* #g-timeline_viz-laff_box-234 p {
+	font-weight:regular;
+	line-height:19px;
+	height:auto;
+	opacity:1;
+	letter-spacing:0em;
+	font-size:16px;
+	text-align:left;
+	color:#1D1E2C;
+	text-transform:none;
+	padding-bottom:0;
+	padding-top:0;
+	mix-blend-mode:normal;
+	font-style:normal;
+	position:static;
+} */
+
+#g-timeline_viz-laff_box-234 .g-pstyle1 {
+	font-weight:700;
+	line-height:12px;
+	height:12px;
+	font-size:10px;
+	text-align:center;
+	color:#1D1E2C;
+}
+
+/* CANNED TIMELINE EVENT */
+#g-timeline_viz-canned-box,
+#g-timeline_viz-canned-box .g-artboard {
+	margin:0 auto;
+}
+#g-timeline_viz-canned-box p {
+	margin:0;
+}
+#g-timeline_viz-canned-box .g-aiAbs {
+	position:absolute;
+}
+#g-timeline_viz-canned-box .g-aiImg {
+	position:absolute;
+	top:0;
+	display:block;
+	width:100% !important;
+}
+#g-timeline_viz-canned-box .g-aiSymbol {
+	position:absolute;
+	box-sizing:border-box;
+}
+#g-timeline_viz-canned-box .g-aiPointText p {
+	white-space:nowrap;
+}
+#g-timeline_viz-canned {
+	position:relative;
+	overflow:hidden;
+}
+#g-timeline_viz-canned p {
+	line-height:14px;
+	height:auto;
+	opacity:1;
+	letter-spacing:0em;
+	font-size:12px;
+	text-transform:none;
+	padding-bottom:0;
+	padding-top:0;
+	mix-blend-mode:normal;
+	font-style:normal;
+	position:static;
+}
+#g-timeline_viz-canned .g-pstyle0 {
+	font-weight:700;
+	line-height:12px;
+	height:12px;
+	font-size:10px;
+	text-align:center;
+	color:#407980;
+}
+/* #g-timeline_viz-canned .g-pstyle1 {
+	font-weight:500;
+	line-height:19px;
+	height:19px;
+	font-size:16px;
+	text-align:center;
+} */
+#g-timeline_viz-canned .g-pstyle2 {
+	font-weight:500;
+	height:14px;
+	text-align:center;
+}
+
+/* GROUCHO MARX */
+
+#g-timeline_viz-groucho-box,
+#g-timeline_viz-groucho-box .g-artboard {
+	margin:0 auto;
+}
+#g-timeline_viz-groucho-box p {
+	margin:0;
+}
+#g-timeline_viz-groucho-box .g-aiAbs {
+	position:absolute;
+}
+#g-timeline_viz-groucho-box .g-aiImg {
+	position:absolute;
+	top:0;
+	display:block;
+	width:100% !important;
+}
+#g-timeline_viz-groucho-box .g-aiSymbol {
+	position:absolute;
+	box-sizing:border-box;
+}
+#g-timeline_viz-groucho-box .g-aiPointText p {
+	white-space:nowrap;
+}
+#g-timeline_viz-groucho-234 {
+	position:relative;
+	overflow:hidden;
+}
+#g-timeline_viz-groucho-234 p {
+	font-weight:regular;
+	line-height:14px;
+	opacity:1;
+	letter-spacing:0em;
+	font-size:12px;
+	text-align:left;
+	color:rgb(0,0,0);
+	text-transform:none;
+	padding-bottom:0;
+	padding-top:0;
+	mix-blend-mode:normal;
+	font-style:normal;
+	height:auto;
+	position:static;
+}
+#g-timeline_viz-groucho-234 .g-pstyle0 {
+	font-weight:500;
+}
+#g-timeline_viz-groucho-234 .g-pstyle1 {
+	font-weight:700;
+	line-height:12px;
+	height:12px;
+	font-size:10px;
+	text-align:center;
+	color:rgb(29,30,44);
+}
+
+/* STUDIO AUDIENCE TIMELINE EVENT */
+
+#g-timeline_viz-studio_audience-box,
+#g-timeline_viz-studio_audience-box .g-artboard {
+	margin:0 auto;
+}
+#g-timeline_viz-studio_audience-box p {
+	margin:0;
+}
+#g-timeline_viz-studio_audience-box .g-aiAbs {
+	position:absolute;
+}
+#g-timeline_viz-studio_audience-box .g-aiImg {
+	position:absolute;
+	top:0;
+	display:block;
+	width:100% !important;
+}
+#g-timeline_viz-studio_audience-box .g-aiSymbol {
+	position:absolute;
+	box-sizing:border-box;
+}
+#g-timeline_viz-studio_audience-box .g-aiPointText p {
+	white-space:nowrap;
+}
+#g-timeline_viz-studio_audience {
+	position:relative;
+	overflow:hidden;
+}
+#g-timeline_viz-studio_audience p {
+	font-weight:regular;
+	line-height:14px;
+	height:auto;
+	opacity:1;
+	letter-spacing:0em;
+	font-size:12px;
+	/* text-align:left; */
+	color:#1D1E2C;
+	text-transform:none;
+	padding-bottom:0;
+	padding-top:0;
+	mix-blend-mode:normal;
+	font-style:normal;
+	position:static;
+}
+#g-timeline_viz-studio_audience .g-pstyle0 {
+	font-weight:500;
+	line-height:19px;
+	height:19px;
+	font-size:16px;
+	text-align:center;
+}
+#g-timeline_viz-studio_audience .g-pstyle1 {
+	font-weight:500;
+	height:14px;
+	text-align:center;
+}
+#g-timeline_viz-studio_audience .g-pstyle2 {
+	font-weight:700;
+	line-height:12px;
+	height:12px;
+	font-size:10px;
+	text-align:center;
+	color:#EEAC4B;
+}
+
+/* SILENCE TIMELINE EVENT */
+
+#g-timeline_viz-silence-box,
+#g-timeline_viz-silence-box .g-artboard {
+	margin:0 auto;
+}
+#g-timeline_viz-silence-box p {
+	margin:0;
+}
+#g-timeline_viz-silence-box .g-aiAbs {
+	position:absolute;
+}
+#g-timeline_viz-silence-box .g-aiImg {
+	position:absolute;
+	top:0;
+	display:block;
+	width:100% !important;
+}
+#g-timeline_viz-silence-box .g-aiSymbol {
+	position:absolute;
+	box-sizing:border-box;
+}
+#g-timeline_viz-silence-box .g-aiPointText p {
+	white-space:nowrap;
+}
+#g-timeline_viz-silence {
+	position:relative;
+	overflow:hidden;
+}
+#g-timeline_viz-silence p {
+	font-weight:regular;
+	line-height:14px;
+	height:auto;
+	opacity:1;
+	letter-spacing:0em;
+	font-size:12px;
+	/* text-align:left; */
+	color:#1D1E2C;
+	text-transform:none;
+	padding-bottom:0;
+	padding-top:4px;
+	mix-blend-mode:normal;
+	font-style:normal;
+	position:static;
+}
+#g-timeline_viz-silence .g-pstyle0 {
+	font-weight:700;
+	line-height:12px;
+	height:12px;
+	font-size:10px;
+	text-align:center;
+	color:#A52422;
+}
+#g-timeline_viz-silence .g-pstyle1 {
+	font-weight:500;
+	line-height:19px;
+	height:19px;
+	font-size:16px;
+	text-align:center;
+}
+#g-timeline_viz-silence .g-pstyle2 {
+	font-weight:500;
+	height:14px;
+	text-align:center;
+}
