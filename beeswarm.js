@@ -126,7 +126,7 @@ d3.csv("./show_data_for_beeswarm.csv", d => ({
         .attr("text-anchor", "middle")
         .style("font-size", "22px")
         .style("fill", "#1D1E2C")
-        .text("Each dot represents a Top 30 broadcast television sitcom between 1950 and 2025. Hover to explore more.");
+        .text("Each dot represents a Top 30 broadcast television sitcom between 1950 and 2025. Hover to explore the data.");
 
     // Legend
     const legendY = -beeswarmMargin.top / 2 + 60;
