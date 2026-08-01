@@ -1,5 +1,7 @@
 # The Evolution of Laughter
-## What 75 years of broadcast television data tells us about our relationship with comedy, and laughter.
+A data-driven look at what 75 years of broadcast television data tells us about our relationship with comedy, and laughter.
+
+**[Read the piece →](https://rachelavice.github.io/evolution_of_laugh_tracks/)**
 
 ## Project Overview
 
